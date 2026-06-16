@@ -1,134 +1,331 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <deckname>Party Box from Hell</deckname>
+    <lastLoadedTimestamp>Tue Jun 16 17:02:59 2026</lastLoadedTimestamp>
+    <deckname>Hellbox Decklist</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
     <comments></comments>
+    <tags/>
     <zone name="main">
-        <card number="1" name="Sundering Fork"/>
-        <card number="1" name="Insufferable Syphon"/>
-        <card number="1" name="Record Store"/>
-        <card number="1" name="Hypnotic Swirly Disc (HELL)"/>
-        <card number="1" name="Thud-for-Duds"/>
-        <card number="1" name="Guest List (HELL)"/>
-        <card number="1" name="Hard Hat Area (HELL)"/>
-        <card number="1" name="Twiddlestick Charger"/>
-        <card number="1" name="Goblin Slingshot (HELL)"/>
-        <card number="1" name="Jamming Device"/>
-        <card number="1" name="Turbo-Thwacking Auto-Hammer"/>
-        <card number="1" name="Rapid Prototyper"/>
-        <card number="1" name="Top-Secret Tunnel"/>
-        <card number="1" name="Neural Network"/>
-        <card number="1" name="Optical Optimizer"/>
-        <card number="1" name="Oaken Power Suit"/>
-        <card number="1" name="Widget Contraption"/>
-        <card number="1" name="Quick-Stick Lick Trick"/>
-        <card number="1" name="Inflation Station"/>
-        <card number="1" name="Targeting Rocket"/>
-        <card number="1" name="Sap Sucker"/>
-        <card number="1" name="Refibrillator"/>
-        <card number="1" name="Lackey Recycler"/>
-        <card number="1" name="Tread Mill"/>
-        <card number="1" name="Mandatory Friendship Shackles"/>
-        <card number="1" name="Head Banger (HELL)"/>
-        <card number="1" name="Pet Project"/>
-        <card number="1" name="Roller Coaster"/>
-        <card number="1" name="Scavenger Hunt"/>
-        <card number="1" name="Cover the Spot"/>
-        <card number="1" name="Trash Bin"/>
-        <card number="1" name="The Superlatorium"/>
-        <card number="1" name="Dart Throw"/>
-        <card number="1" name="Concession Stand"/>
-        <card number="1" name="Tunnel of Love"/>
-        <card number="1" name="Gift Shop"/>
-        <card number="1" name="Guess Your Fate"/>
-        <card number="1" name="Squirrel Stack"/>
-        <card number="1" name="Log Flume"/>
-        <card number="1" name="Merry-Go-Round"/>
-        <card number="1" name="Centrifuge"/>
-        <card number="1" name="Gallery of Legends"/>
-        <card number="1" name="Costume Shop"/>
-        <card number="1" name="Kiddie Coaster"/>
-        <card number="1" name="Information Booth"/>
-        <card number="1" name="Pick-a-Beeble"/>
-        <card number="1" name="Spinny Ride"/>
-        <card number="1" name="Haunted House"/>
-        <card number="1" name="Foam Weapons Kiosk"/>
-        <card number="1" name="Fortune Teller"/>
-        <card number="1" name="Memory Test"/>
-        <card number="1" name="Bumper Cars"/>
-        <card number="1" name="Clown Extruder"/>
-        <card number="1" name="Trivia Contest"/>
-        <card number="1" name="Push Your Luck"/>
-        <card number="1" name="Drop Tower"/>
-        <card number="1" name="Swinging Ship"/>
-        <card number="1" name="Hall of Mirrors"/>
-        <card number="1" name="Storybook Ride"/>
-        <card number="1" name="Ancestral Hot Dog Minotaur"/>
-        <card number="1" name="Carnival Elephant Meteor"/>
-        <card number="1" name="Contortionist Otter Storm"/>
-        <card number="1" name="Cool Fluffy Loxodon"/>
-        <card number="1" name="Cursed Firebreathing Yogurt"/>
-        <card number="1" name="Deep-Fried Plague Myr"/>
-        <card number="1" name="Demonic Tourist Laser"/>
-        <card number="1" name="Eldrazi Guacamole Tightrope"/>
-        <card number="1" name="Elemental Time Flamingo"/>
-        <card number="1" name="Eternal Acrobat Toast"/>
-        <card number="1" name="Familiar Beeble Mascot"/>
-        <card number="1" name="Geek Lotus Warrior"/>
-        <card number="1" name="Giant Mana Cake"/>
-        <card number="1" name="Goblin Coward Parade"/>
-        <card number="1" name="Happy Dead Squirrel"/>
-        <card number="1" name="Jetpack Death Seltzer"/>
-        <card number="1" name="Misunderstood Trapeze Elf"/>
-        <card number="1" name="Mystic Doom Sandwich"/>
-        <card number="1" name="Narrow-Minded Baloney Fireworks"/>
-        <card number="1" name="Night Brushwagg Ringmaster"/>
-        <card number="1" name="Notorious Sliver War"/>
-        <card number="1" name="Phyrexian Midway Bamboozle"/>
-        <card number="1" name="Playable Delusionary Hydra"/>
-        <card number="1" name="Primal Elder Kitty"/>
-        <card number="1" name="Sassy Gremlin Blood"/>
-        <card number="1" name="Slimy Burrito Illusion"/>
-        <card number="1" name="Snazzy Aether Homunculus"/>
-        <card number="1" name="Space Fungus Snickerdoodle"/>
-        <card number="1" name="Spooky Clown Mox"/>
-        <card number="1" name="Squid Fire Knight"/>
-        <card number="1" name="Squishy Sphinx Ninja"/>
-        <card number="1" name="Sticky Kavu Daredevil"/>
-        <card number="1" name="Trained Blessed Mind"/>
-        <card number="1" name="Trendy Circus Pirate"/>
-        <card number="1" name="Unassuming Gelatinous Serpent"/>
-        <card number="1" name="Unglued Pea-Brained Dinosaur"/>
-        <card number="1" name="Unhinged Beast Hunt"/>
-        <card number="1" name="Unique Charmed Pants"/>
-        <card number="1" name="Unsanctioned Ancient Juggler"/>
-        <card number="1" name="Unstable Robot Dragon"/>
-        <card number="1" name="Urza's Dark Cannonball"/>
-        <card number="1" name="Vampire Champion Fury"/>
-        <card number="1" name="Weird Angel Flame"/>
-        <card number="1" name="Werewolf Lightning Mage"/>
-        <card number="1" name="Wild Ogre Bupkis"/>
-        <card number="1" name="Wrinkly Monkey Shenanigans"/>
-        <card number="1" name="Yawgmoth Merfolk Soul"/>
-        <card number="1" name="Zombie Cheese Magician"/>
-        <card number="1" name="Accessories to Murder (HELL)"/>
-        <card number="1" name="Balloon Stand (HELL)"/>
-        <card number="1" name="Applied Aeronautics (HELL)"/>
-        <card number="1" name="Arms Depot (HELL)"/>
-        <card number="1" name="Auto-Key (HELL)"/>
-        <card number="1" name="Bee-Bee Gun (HELL)"/>
-        <card number="1" name="Boomflinger (HELL)"/>
-        <card number="1" name="Buzz Buggy (HELL)"/>
-        <card number="1" name="Deadly Poison Sampler (HELL)"/>
-        <card number="1" name="Dictation Quillograph (HELL)"/>
-        <card number="1" name="Dispatch Dispensary (HELL)"/>
-        <card number="1" name="Division Table (HELL)"/>
-        <card number="1" name="Dogsnail Engine (HELL)"/>
-        <card number="1" name="Dual Doomsuits (HELL)"/>
-        <card number="1" name="Duplication Device (HELL)"/>
-        <card number="1" name="Faerie Aerie (HELL)"/>
-        <card number="1" name="Genetic Recombinator (HELL)"/>
-        <card number="1" name="Gift Horse (HELL)"/>
-        <card number="1" name="Gnomeball Machine (HELL)"/>
-        <card number="1" name="Bounce Chamber"/>
+        <card number="1" name="Ancestral Hot Dog Minotaur" setShortName="SUNF" collectorNumber="23" uuid="34c3979d-60e7-44b5-bb9f-1b6b0f2b70c3"/>
+        <card number="1" name="Carnival Elephant Meteor" setShortName="SUNF" collectorNumber="7" uuid="016bf660-16c3-41b7-a988-211921c21eb8"/>
+        <card number="1" name="Contortionist Otter Storm" setShortName="SUNF" collectorNumber="15" uuid="ca442395-159a-40aa-a1e4-ed6bf0ffbedd"/>
+        <card number="1" name="Cool Fluffy Loxodon" setShortName="SUNF" collectorNumber="28" uuid="b1710520-d69f-415f-aef8-03eaa514b63a"/>
+        <card number="1" name="Cursed Firebreathing Yogurt" setShortName="SUNF" collectorNumber="22" uuid="6534ab2b-ed2e-4c51-914d-920dc2307f43"/>
+        <card number="1" name="Deep-Fried Plague Myr" setShortName="SUNF" collectorNumber="14" uuid="907157c3-f562-403c-94cb-9171deadaee4"/>
+        <card number="1" name="Demonic Tourist Laser" setShortName="SUNF" collectorNumber="21" uuid="7c7241ef-ccde-4c2f-807b-45b9e644870f"/>
+        <card number="1" name="Eldrazi Guacamole Tightrope" setShortName="SUNF" collectorNumber="1" uuid="b8f1abc7-1a86-4e43-8105-10c1c55e65ba"/>
+        <card number="1" name="Elemental Time Flamingo" setShortName="SUNF" collectorNumber="46" uuid="eacec01f-c971-48b7-bf4a-2fdacae32835"/>
+        <card number="1" name="Eternal Acrobat Toast" setShortName="SUNF" collectorNumber="19" uuid="780b4d5d-d3a0-4aad-abe7-3073339a8fcd"/>
+        <card number="1" name="Familiar Beeble Mascot" setShortName="SUNF" collectorNumber="24" uuid="ba3ff3dc-08d6-4ee1-9dcd-38bc95c8b227"/>
+        <card number="1" name="Geek Lotus Warrior" setShortName="SUNF" collectorNumber="32" uuid="992af90e-5ab9-46e1-af1d-c741be2605c3"/>
+        <card number="1" name="Giant Mana Cake" setShortName="SUNF" collectorNumber="25" uuid="4fac4b12-4cb6-438e-acd5-f4598f922b65"/>
+        <card number="1" name="Goblin Coward Parade" setShortName="SUNF" collectorNumber="17" uuid="ca8a24e8-5305-46cf-8c5a-b5324c59bb97"/>
+        <card number="1" name="Happy Dead Squirrel" setShortName="SUNF" collectorNumber="8" uuid="20a67ee2-0137-458d-b381-430a2494357f"/>
+        <card number="1" name="Jetpack Death Seltzer" setShortName="SUNF" collectorNumber="20" uuid="1b09757f-22bb-4ae0-874f-67959b537da0"/>
+        <card number="1" name="Misunderstood Trapeze Elf" setShortName="SUNF" collectorNumber="5" uuid="e6952074-d6c2-4fbe-88ca-6d42f83c7ee7"/>
+        <card number="1" name="Mystic Doom Sandwich" setShortName="SUNF" collectorNumber="11" uuid="6995d646-cadc-48bb-911c-9f2e461a9fdf"/>
+        <card number="1" name="Narrow-Minded Baloney Fireworks" setShortName="SUNF" collectorNumber="12" uuid="1b516ae7-2891-40e9-80a1-48ec62171275"/>
+        <card number="1" name="Night Brushwagg Ringmaster" setShortName="SUNF" collectorNumber="3" uuid="436e388d-7d48-41b8-8dcc-21ff3755feff"/>
+        <card number="1" name="Notorious Sliver War" setShortName="SUNF" collectorNumber="41" uuid="5feced69-a138-4a56-85f2-7c2cbdde5fa6"/>
+        <card number="1" name="Phyrexian Midway Bamboozle" setShortName="SUNF" collectorNumber="18" uuid="5daeb14a-dcc5-4761-84a4-a60d22a6c944"/>
+        <card number="1" name="Playable Delusionary Hydra" setShortName="SUNF" collectorNumber="30" uuid="c27dffce-908c-45cf-bfe5-67af12467321"/>
+        <card number="1" name="Primal Elder Kitty" setShortName="SUNF" collectorNumber="33" uuid="7c2526ff-75ae-4d58-9749-ab948dedf2e7"/>
+        <card number="1" name="Sassy Gremlin Blood" setShortName="SUNF" collectorNumber="34" uuid="e997ea17-18e3-4d4c-8ab3-0395e44fca9c"/>
+        <card number="1" name="Slimy Burrito Illusion" setShortName="SUNF" collectorNumber="9" uuid="aabb17b4-34b5-4920-b290-0c750f868448"/>
+        <card number="1" name="Snazzy Aether Homunculus" setShortName="SUNF" collectorNumber="26" uuid="8e3a1933-9efb-45dc-997f-c3e4cbb40817"/>
+        <card number="1" name="Space Fungus Snickerdoodle" setShortName="SUNF" collectorNumber="29" uuid="1dca39e2-0001-48bb-88a0-16e40b4877c8"/>
+        <card number="1" name="Spooky Clown Mox" setShortName="SUNF" collectorNumber="10" uuid="ecae5a63-8494-4454-889c-2a69b98254f2"/>
+        <card number="1" name="Squid Fire Knight" setShortName="SUNF" collectorNumber="27" uuid="c65b391d-a5fb-4f0d-8082-cc636ab95b28"/>
+        <card number="1" name="Squishy Sphinx Ninja" setShortName="SUNF" collectorNumber="37" uuid="14222486-bcd3-42be-9598-4976ec9c08ea"/>
+        <card number="1" name="Sticker sheet" setShortName="SLD" collectorNumber="339" uuid="41c9a27a-6042-406f-aee6-b0f4d1cb6057"/>
+        <card number="1" name="Sticker sheet" setShortName="SLD" collectorNumber="338" uuid="73e2225b-77d3-4400-ace5-7a8865b947b5"/>
+        <card number="1" name="Sticker sheet" setShortName="SLD" collectorNumber="337" uuid="2411bb93-8e4a-4b88-ac77-dc0162729d62"/>
+        <card number="1" name="Sticker sheet" setShortName="SLD" collectorNumber="336" uuid="05155dc2-9b64-4868-8c82-76628cbb9f1c"/>
+        <card number="1" name="Sticker sheet" setShortName="SLD" collectorNumber="335" uuid="15b3fde6-7f7f-4bc4-9d74-92c869e916b4"/>
+        <card number="1" name="Sticky Kavu Daredevil" setShortName="SUNF" collectorNumber="16" uuid="ca27624e-bddf-4719-9d7e-579de18e1084"/>
+        <card number="1" name="Trained Blessed Mind" setShortName="SUNF" collectorNumber="44" uuid="633f98c3-ffec-48c0-ac01-d599312fe288"/>
+        <card number="1" name="Trendy Circus Pirate" setShortName="SUNF" collectorNumber="2" uuid="96cc18d9-edf1-4cb5-bb0d-a33d380c7d94"/>
+        <card number="1" name="Unassuming Gelatinous Serpent" setShortName="SUNF" collectorNumber="36" uuid="7985d1dd-32cf-4c83-ae68-ee4961c1e6b9"/>
+        <card number="1" name="Unglued Pea-Brained Dinosaur" setShortName="SUNF" collectorNumber="45" uuid="955c33c6-0cc6-47ec-8f71-8d169c02b243"/>
+        <card number="1" name="Unhinged Beast Hunt" setShortName="SUNF" collectorNumber="39" uuid="04da8455-cfaa-4061-9aea-4c9015baaab4"/>
+        <card number="1" name="Unique Charmed Pants" setShortName="SUNF" collectorNumber="38" uuid="c3bd4f88-d861-476b-87d6-605f2c0deee0"/>
+        <card number="1" name="Unsanctioned Ancient Juggler" setShortName="SUNF" collectorNumber="13" uuid="3bf70946-5a50-4918-bb61-23be7c2cc75a"/>
+        <card number="1" name="Unstable Robot Dragon" setShortName="SUNF" collectorNumber="47" uuid="a5f917b0-3c9a-4643-ade8-ada20dfc2d05"/>
+        <card number="1" name="Urza's Dark Cannonball" setShortName="SUNF" collectorNumber="4" uuid="f20010bf-3745-422a-8811-c3f6be9a8805"/>
+        <card number="1" name="Vampire Champion Fury" setShortName="SUNF" collectorNumber="43" uuid="a4475054-b272-4f05-b626-b7b5090690d9"/>
+        <card number="1" name="Weird Angel Flame" setShortName="SUNF" collectorNumber="42" uuid="61a9e71b-cb8e-4cff-b561-3d2462848582"/>
+        <card number="1" name="Werewolf Lightning Mage" setShortName="SUNF" collectorNumber="48" uuid="1cd65813-8103-413b-add4-d000101e479d"/>
+        <card number="1" name="Wild Ogre Bupkis" setShortName="SUNF" collectorNumber="40" uuid="fa0c5716-a222-41a1-88cf-8b4aae87f92b"/>
+        <card number="1" name="Wrinkly Monkey Shenanigans" setShortName="SUNF" collectorNumber="31" uuid="9d595a6a-03f6-4da6-945b-4de82d71b298"/>
+        <card number="1" name="Yawgmoth Merfolk Soul" setShortName="SUNF" collectorNumber="35" uuid="3af82a50-8f49-4bab-b8f3-da2214d3601d"/>
+        <card number="1" name="Zombie Cheese Magician" setShortName="SUNF" collectorNumber="6" uuid="2eb50148-bfb1-4e79-a6a8-d0ce49763d00"/>
+        <card number="1" name="Accessories to Murder" setShortName="UST" collectorNumber="167" uuid="e8ca02a0-5acf-4d89-847b-bad0d7560682"/>
+        <card number="1" name="Applied Aeronautics" setShortName="UST" collectorNumber="168" uuid="8dcd1fe5-1b80-45eb-921d-8d1a90816754"/>
+        <card number="1" name="Arms Depot" setShortName="UST" collectorNumber="169" uuid="8277ff56-067f-49dc-8f83-b9fe7b37990f"/>
+        <card number="1" name="Auto-Key" setShortName="UST" collectorNumber="170" uuid="29dcdef4-7898-4620-a176-fcabd3f1fa4f"/>
+        <card number="1" name="Balloon Stand" setShortName="UNF" collectorNumber="200a" uuid="2e9eaed8-e956-4fb2-a23d-3d442cd2fa5c"/>
+        <card number="1" name="Bee-Bee Gun" setShortName="UST" collectorNumber="171" uuid="c4927de5-69a4-4461-9ebe-b243e9cf00c4"/>
+        <card number="1" name="Boomflinger" setShortName="UST" collectorNumber="172" uuid="a6fb2587-6661-4596-9fcb-15f97aeedd37"/>
+        <card number="1" name="Bounce Chamber" setShortName="UNF" collectorNumber="201c" uuid="756164bc-6d3a-4d0f-96b6-fd0ae9a5371e"/>
+        <card number="1" name="Bumper Cars" setShortName="UNF" collectorNumber="202f" uuid="1bb790c6-8195-488c-b64d-83faf8699304"/>
+        <card number="1" name="Buzz Buggy" setShortName="UST" collectorNumber="173" uuid="f7bac075-aa1f-4c8a-9d82-8b6c1ff9b97a"/>
+        <card number="1" name="Centrifuge" setShortName="UNF" collectorNumber="203a" uuid="3eed5075-0632-4af1-8a16-9b959317e154"/>
+        <card number="1" name="Clown Extruder" setShortName="UNF" collectorNumber="204d" uuid="0accf374-76ed-4829-9fb2-87d6a411b0dc"/>
+        <card number="1" name="Concession Stand" setShortName="UNF" collectorNumber="205a" uuid="49ab8948-1080-487b-b0a0-c5d11935141f"/>
+        <card number="1" name="Costume Shop" setShortName="UNF" collectorNumber="206b" uuid="80f89ff2-6da0-40ea-998c-cb6893c5d0fa"/>
+        <card number="1" name="Cover the Spot" setShortName="UNF" collectorNumber="207d" uuid="8eb2b98a-0f88-41f5-b87c-8622cd8939e5"/>
+        <card number="1" name="Dart Throw" setShortName="UNF" collectorNumber="208b" uuid="cf6ff30a-d56b-455a-8d15-10c23da8ec82"/>
+        <card number="1" name="Deadly Poison Sampler" setShortName="UST" collectorNumber="174" uuid="c0242175-3e91-4a6e-bcaf-036ff75cef49"/>
+        <card number="1" name="Dictation Quillograph" setShortName="UST" collectorNumber="175" uuid="782d7294-14e6-4773-af8e-40b39f4f701a"/>
+        <card number="1" name="Dispatch Dispensary" setShortName="UST" collectorNumber="176" uuid="eced6323-cfb6-4429-badb-2c249c6c69f4"/>
+        <card number="1" name="Division Table" setShortName="UST" collectorNumber="177" uuid="90fcd1f0-0ed3-46f9-a12a-fc0e9f99e97f"/>
+        <card number="1" name="Dogsnail Engine" setShortName="UST" collectorNumber="178" uuid="2003732e-efa5-42c7-8656-90fb4c9fc1e5"/>
+        <card number="1" name="Drop Tower" setShortName="UNF" collectorNumber="209b" uuid="019e070e-bc22-416a-a424-2ac285704b8f"/>
+        <card number="1" name="Dual Doomsuits" setShortName="UST" collectorNumber="179" uuid="d5c91e63-284e-4403-af01-0cfe6af914c1"/>
+        <card number="1" name="Duplication Device" setShortName="UST" collectorNumber="180" uuid="b586c92c-ebd7-473c-ae55-2628a9eac390"/>
+        <card number="1" name="Faerie Aerie" setShortName="UST" collectorNumber="181" uuid="07ea8a49-9644-4de9-8633-a38431a29c0b"/>
+        <card number="1" name="Ferris Wheel" setShortName="UNF" collectorNumber="210" uuid="91562ab3-1153-48d9-9f8e-4c79155548f2"/>
+        <card number="1" name="Foam Weapons Kiosk" setShortName="UNF" collectorNumber="211b" uuid="b6c57f5f-2a7c-4d85-a06a-0692a8b71989"/>
+        <card number="1" name="Fortune Teller" setShortName="UNF" collectorNumber="212f" uuid="533f3be9-82a1-45a4-bd91-f34eab32ade4"/>
+        <card number="1" name="Gallery of Legends" setShortName="UNF" collectorNumber="213a" uuid="a9ad0d58-b1f6-4549-b0b3-f655b006dbb4"/>
+        <card number="1" name="Genetic Recombinator" setShortName="UST" collectorNumber="182" uuid="0cd63e12-3851-441b-9cd6-566c08940031"/>
+        <card number="1" name="Gift Horse" setShortName="UST" collectorNumber="183" uuid="4190dd17-adf3-4174-ab4b-cc49698b7901"/>
+        <card number="1" name="Gift Shop" setShortName="UNF" collectorNumber="214b" uuid="fbc33291-a597-4c70-8072-aa7251e57e78"/>
+        <card number="1" name="Gnomeball Machine" setShortName="UST" collectorNumber="184" uuid="291989b2-d87f-4e5a-a159-4d564d1c2c6a"/>
+        <card number="1" name="Goblin Slingshot" setShortName="UST" collectorNumber="185" uuid="7368a5ae-5642-4e90-9e73-9f0283067c15"/>
+        <card number="1" name="Guess Your Fate" setShortName="UNF" collectorNumber="215d" uuid="7db7347a-30a3-48cf-9257-48cf240e0178"/>
+        <card number="1" name="Guest List" setShortName="UST" collectorNumber="186" uuid="c9968bad-07fb-4fc5-8ce7-78936c4e6c28"/>
+        <card number="1" name="Hall of Mirrors" setShortName="UNF" collectorNumber="216a" uuid="825c887a-9879-4f62-8058-ece831d6fb65"/>
+        <card number="1" name="Hard Hat Area" setShortName="UST" collectorNumber="187" uuid="30dc6c38-18e7-44b1-91d0-dfa1acdb4106"/>
+        <card number="1" name="Haunted House" setShortName="UNF" collectorNumber="217b" uuid="5a651c53-b345-482b-b732-f0a5098068c3"/>
+        <card number="1" name="Head Banger" setShortName="UST" collectorNumber="188" uuid="32c3fc99-227b-402e-9b33-07bbec9a7699"/>
+        <card number="1" name="Hypnotic Swirly Disc" setShortName="UST" collectorNumber="189" uuid="13d193e9-8bcd-452e-a7d8-37b519b6c2b5"/>
+        <card number="1" name="Inflation Station" setShortName="UST" collectorNumber="190" uuid="c60b15f8-95e8-43b2-a21e-26cb7e686745"/>
+        <card number="1" name="Information Booth" setShortName="UNF" collectorNumber="218c" uuid="1d9591b2-7cbc-48e4-82c7-103ca6cef37d"/>
+        <card number="1" name="Insufferable Syphon" setShortName="UST" collectorNumber="191" uuid="0741c7b2-0e1e-42ed-aa97-5b3ba123d44f"/>
+        <card number="1" name="Jamming Device" setShortName="UST" collectorNumber="192" uuid="fe920f24-720b-4b92-bac4-651b8faae90e"/>
+        <card number="1" name="Kiddie Coaster" setShortName="UNF" collectorNumber="219d" uuid="c9f999ad-05df-4c95-bcce-e3d8c0827c3e"/>
+        <card number="1" name="Lackey Recycler" setShortName="UST" collectorNumber="193" uuid="5f7bc397-eb40-4647-a06c-d3f427eb8c3a"/>
+        <card number="1" name="Log Flume" setShortName="UNF" collectorNumber="220a" uuid="c0b29fde-e065-4edf-96e7-88318b61c260"/>
+        <card number="1" name="Mandatory Friendship Shackles" setShortName="UST" collectorNumber="194" uuid="e6ad93ba-dd05-4a29-ac36-2b9b4474309a"/>
+        <card number="1" name="Memory Test" setShortName="UNF" collectorNumber="221a" uuid="7eb35be9-4fe3-4db7-81d6-d66f5e399d03"/>
+        <card number="1" name="Merry-Go-Round" setShortName="UNF" collectorNumber="222b" uuid="93d4e4af-0587-40ea-86f1-992c80240adb"/>
+        <card number="1" name="Neural Network" setShortName="UST" collectorNumber="195" uuid="d2b8f6cd-04d1-4c99-9fac-e606b08e750a"/>
+        <card number="1" name="Oaken Power Suit" setShortName="UST" collectorNumber="196" uuid="488398b3-8b85-4017-87db-f7b683eef3d6"/>
+        <card number="1" name="Optical Optimizer" setShortName="UST" collectorNumber="197" uuid="c505f1be-4d9f-4536-a3f7-c6e6e19d5678"/>
+        <card number="1" name="Pet Project" setShortName="UST" collectorNumber="198" uuid="d1430162-6df1-4b24-b533-559ac2f97a09"/>
+        <card number="1" name="Pick-a-Beeble" setShortName="UNF" collectorNumber="223b" uuid="bcfdd446-3618-44dd-9521-2e223c8ccae3"/>
+        <card number="1" name="Push Your Luck" setShortName="UNF" collectorNumber="224b" uuid="05269f3c-b549-401a-8f7f-c5993fc211c9"/>
+        <card number="1" name="Quick-Stick Lick Trick" setShortName="UST" collectorNumber="199" uuid="8eccf9ee-3909-49d4-b489-fe0798d1a3a1"/>
+        <card number="1" name="Rapid Prototyper" setShortName="UST" collectorNumber="200" uuid="337af8e8-940f-4afd-bd0c-330de63f79c9"/>
+        <card number="1" name="Record Store" setShortName="UST" collectorNumber="201" uuid="5c1028aa-0a08-4851-a108-93c3c72ebe99"/>
+        <card number="1" name="Refibrillator" setShortName="UST" collectorNumber="202" uuid="a8b3b81f-7393-4f85-8b1c-59d560778ca1"/>
+        <card number="1" name="Roller Coaster" setShortName="UNF" collectorNumber="225c" uuid="5ea3a2df-d327-4d0b-b711-53347a9ff0b5"/>
+        <card number="1" name="Sap Sucker" setShortName="UST" collectorNumber="203" uuid="fd8d38a8-e835-4314-80eb-6a574756431d"/>
+        <card number="1" name="Scavenger Hunt" setShortName="UNF" collectorNumber="226b" uuid="c5d95e12-b648-4a2c-b1d0-931b99949a8f"/>
+        <card number="1" name="Spinny Ride" setShortName="UNF" collectorNumber="227e" uuid="78ecd2b9-4a23-44fa-93e2-210225d3da47"/>
+        <card number="1" name="Squirrel Stack" setShortName="UNF" collectorNumber="228a" uuid="de665505-0896-46c6-a6b5-d3b57a9a01e4"/>
+        <card number="1" name="Storybook Ride" setShortName="UNF" collectorNumber="229b" uuid="070cf701-53ae-463f-b6ce-47b489557e8a"/>
+        <card number="1" name="Sundering Fork" setShortName="UST" collectorNumber="204" uuid="2420ee20-c7f1-42e8-b8c5-efc0206887aa"/>
+        <card number="1" name="Swinging Ship" setShortName="UNF" collectorNumber="231b" uuid="38a7dfaa-f2dc-4975-a4c2-25537a4874fc"/>
+        <card number="1" name="Targeting Rocket" setShortName="UST" collectorNumber="205" uuid="52882b9b-fbf2-405e-9eee-ddb434874070"/>
+        <card number="1" name="The Superlatorium" setShortName="UNF" collectorNumber="230d" uuid="9f21a33a-ef9d-495d-a475-7042cbd9f6f5"/>
+        <card number="1" name="Thud-for-Duds" setShortName="UST" collectorNumber="206" uuid="c40dafec-1243-413c-84db-c07a8cf6d628"/>
+        <card number="1" name="Top-Secret Tunnel" setShortName="UST" collectorNumber="207" uuid="d2d5f6ce-1c39-453a-8edf-5461a9db8b8f"/>
+        <card number="1" name="Trash Bin" setShortName="UNF" collectorNumber="232b" uuid="6ba10e7e-f2fc-4b30-88e9-cfc850b852ab"/>
+        <card number="1" name="Tread Mill" setShortName="UST" collectorNumber="208" uuid="70d2f8f3-7bd0-4775-806b-1583da4814a5"/>
+        <card number="1" name="Trivia Contest" setShortName="UNF" collectorNumber="233a" uuid="a6083e23-9050-4221-b1c9-06a83f0ce53b"/>
+        <card number="1" name="Tunnel of Love" setShortName="UNF" collectorNumber="234a" uuid="9f902fef-5905-4e72-b838-22acdb01ccc8"/>
+        <card number="1" name="Turbo-Thwacking Auto-Hammer" setShortName="UST" collectorNumber="209" uuid="be96ad59-cec0-4b82-877d-7ffa2755cebf"/>
+        <card number="1" name="Twiddlestick Charger" setShortName="UST" collectorNumber="210" uuid="c9ce1145-ca48-4fee-a11d-df88c20bd852"/>
+        <card number="1" name="Widget Contraption" setShortName="UST" collectorNumber="211" uuid="11519144-1f4c-4f11-9a36-4456d45098a1"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Absolute Annihilation" setShortName="HELL"/>
+        <card number="1" name="Radiant Greninja" setShortName="HELL"/>
+        <card number="1" name="Alchemical Printer" setShortName="HELL"/>
+        <card number="1" name="Joker" setShortName="HELL"/>
+        <card number="1" name="Magic Joker" setShortName="HELL"/>
+        <card number="1" name="Pokémon Joker" setShortName="HELL"/>
+        <card number="1" name="Yu-Gi-Oh! Joker" setShortName="HELL"/>
+        <card number="1" name="Aetherflux Conduit" setShortName="DRC" collectorNumber="17" uuid="dd9ac0f2-2d8f-40fc-97fb-d6e05633405d"/>
+        <card number="1" name="Approach of the Second Sun" setShortName="STA" collectorNumber="1" uuid="e0d18742-d661-4223-8880-9ed995379b2e"/>
+        <card number="1" name="Bill" setShortName="HELL"/>
+        <card number="1" name="Birthing Pod" setShortName="SLD" collectorNumber="2349" uuid="86c499a6-1f5e-4f13-8d7d-bc7ca65910eb"/>
+        <card number="1" name="Command Performance" setShortName="UNF" collectorNumber="42" uuid="082b93fc-3490-4598-95a3-302481e8679d"/>
+        <card number="1" name="Berserk" setShortName="2ED" collectorNumber="186" uuid="fd082697-493f-48e3-a41f-123700435025"/>
+        <card number="1" name="Helm of the Host" setShortName="DOM" collectorNumber="217" uuid="1d65d20c-09e5-4139-838b-7e0e48eb2b2b"/>
+        <card number="1" name="Grave Duplication" setShortName="HELL"/>
+        <card number="1" name="Blue-Eyes White Dragon" setShortName="HELL"/>
+        <card number="1" name="Beast Within" setShortName="DSC" collectorNumber="80" uuid="15d24a9b-05a0-4759-80eb-22743ed5c228"/>
+        <card number="1" name="Chains of Mephistopheles" setShortName="ME1" collectorNumber="63" uuid="f2edb3a6-8506-4885-b332-eca381940ce8"/>
+        <card number="1" name="Door to Nothingness" setShortName="M13" collectorNumber="203" uuid="57877b1c-e91d-4941-81bd-008dff1272ed"/>
+        <card number="1" name="Animate Dead" setShortName="P22" collectorNumber="7" uuid="f9e02314-bb21-48d0-b0c9-2824583b9c6f"/>
+        <card number="1" name="Gift of Creation" setShortName="HELL"/>
+        <card number="1" name="Gitaxian Probe" setShortName="SLD" collectorNumber="2067" uuid="1fbb4493-23db-4c91-a3e0-17b139f5d00f"/>
+        <card number="1" name="Professor Oak" setShortName="HELL"/>
+        <card number="1" name="Lion's Eye Diamond" setShortName="MIR" collectorNumber="307" uuid="63bacc32-d6ba-420c-9b49-299c08e5fb39"/>
+        <card number="1" name="The Marker of _______" setShortName="HELL"/>
+        <card number="1" name="Dark Magician" setShortName="HELL"/>
+        <card number="1" name="Possibility Storm" setShortName="DGM" collectorNumber="34" uuid="858aa831-b491-4f1e-bb56-33eeca14771d"/>
+        <card number="1" name="Momir's Wish" setShortName="HELL"/>
+        <card number="1" name="Pot of Greed" setShortName="HELL"/>
+        <card number="1" name="Chaos Warp" setShortName="2X2" collectorNumber="359" uuid="94ba4278-c63e-49b4-bf60-16dfe5c70a0b"/>
+        <card number="1" name="Counterbalance" setShortName="MB2" collectorNumber="157" uuid="95949438-884d-420d-b7c4-972327ca486b"/>
+        <card number="1" name="Reality Snapshot" setShortName="HELL"/>
+        <card number="1" name="Howling Mine" setShortName="10E" collectorNumber="325" uuid="afe62264-058d-4337-a793-a66eb42551f7"/>
+        <card number="1" name="Mirror Force" setShortName="HELL"/>
+        <card number="1" name="Curiosity" setShortName="WOT" collectorNumber="17" uuid="96056dc1-b989-4c87-8ad9-7a9dd99dd7fc"/>
+        <card number="1" name="Dark Depths" setShortName="M3C" collectorNumber="334" uuid="13a4a3e6-77d4-453e-9978-68352fcf8d29"/>
+        <card number="1" name="Gaea's Cradle" setShortName="OLGC" collectorNumber="2014" uuid="3faf2c71-8591-4005-a93f-08441e3bba49"/>
+        <card number="1" name="Snow-Covered Forest" setShortName="KHM" collectorNumber="285" uuid="fe241460-f7c1-4ba8-a156-6720b494ac97"/>
+        <card number="1" name="Oblivion Ring" setShortName="DDG" collectorNumber="34" uuid="2c7142a8-38fa-4e9d-9085-a26fb217a433"/>
+        <card number="1" name="Omniscience" setShortName="FDN" collectorNumber="312" uuid="7c72dced-adae-4c66-af2a-0a1216953ab6"/>
+        <card number="1" name="Snow-Covered Island" setShortName="J22" collectorNumber="833" uuid="fe6b4706-5452-4c50-872d-2d04f96407a8"/>
+        <card number="1" name="Hatred" setShortName="EXO" collectorNumber="64" uuid="2383a8d9-96fd-4f9a-bcf9-eb81fdb15ead"/>
+        <card number="1" name="Tibalt, the Fiend-Blooded" setShortName="SLD" collectorNumber="537" uuid="f3da28f3-2b23-47ad-975a-6b7b204efecb"/>
+        <card number="1" name="Rancor" setShortName="A25" collectorNumber="186" uuid="8a4d8527-af29-408d-a3a3-6781db0cf439"/>
+        <card number="1" name="Stasis" setShortName="LEA" collectorNumber="80" uuid="b6cef408-5b4b-49f6-9531-be544815b93f"/>
+        <card number="1" name="Sneak Attack" setShortName="DMR" collectorNumber="139" uuid="a45b4ca9-4355-4690-84c3-a7d44c367dbf"/>
+        <card number="1" name="Sensei's Divining Top" setShortName="2X2" collectorNumber="398" uuid="696792c7-245a-437e-b495-477b177773ba"/>
+        <card number="1" name="Snow-Covered Mountain" setShortName="KHM" collectorNumber="283" uuid="f54aa46b-4b7c-4846-bf19-a289ed36c172"/>
+        <card number="1" name="Faithless Looting" setShortName="STA" collectorNumber="38" uuid="b429172f-2182-49dd-b6f6-e5e09493628d"/>
+        <card number="1" name="Winter Orb" setShortName="SLD" collectorNumber="2400" uuid="838f66d8-4f2d-4418-958c-e79aee0ce8aa"/>
+        <card number="1" name="Cartel Aristocrat" setShortName="RVR" collectorNumber="170" uuid="e2dec477-5764-4c0c-bb10-42d64ad2103e"/>
+        <card number="1" name="Splinter Twin" setShortName="ROE" collectorNumber="165" uuid="2f8f22fb-7291-4517-9b15-e98501f2856b"/>
+        <card number="1" name="Fireball" setShortName="CEI" collectorNumber="150" uuid="71280738-c5b4-4e76-912e-cfe18f6846f8"/>
+        <card number="1" name="Snow-Covered Plains" setShortName="KHM" collectorNumber="276" uuid="afd2730f-878e-47ee-ad2a-73f8fa4e0794"/>
+        <card number="1" name="Snow-Covered Swamp" setShortName="KHM" collectorNumber="281" uuid="9160baf7-5796-4815-8e9d-e804af70cb74"/>
+        <card number="1" name="Perplexing Chimera" setShortName="BNG" collectorNumber="48" uuid="f9cff40b-9cae-47d0-8df4-c287a17a33e4"/>
+        <card number="1" name="Grapeshot" setShortName="TSP" collectorNumber="160" uuid="4ee33cb6-768e-44a0-b6f4-b8638aa84330"/>
+        <card number="1" name="Snow-Covered Wastes" setShortName="MH3" collectorNumber="229" uuid="87870792-e429-4eba-8193-cdce5c7b6c55"/>
+        <card number="1" name="Red-Eyes Black Dragon" setShortName="HELL"/>
+        <card number="1" name="Mana Drain" setShortName="2X2" collectorNumber="57" uuid="3c429c40-2389-41e5-8681-4bb274e25eba"/>
+        <card number="1" name="Tolarian Academy" setShortName="OVNT" collectorNumber="2020A" uuid="b0247ee3-7799-43c2-9617-35b3edc91f22"/>
+        <card number="1" name="Mulldrifter" setShortName="SLD" collectorNumber="168" uuid="ff990293-3e73-4c01-9b79-707339c8b28b"/>
+        <card number="1" name="Black Lotus" setShortName="LEA" collectorNumber="232" uuid="b0faa7f2-b547-42c4-a810-839da50dadfe"/>
+        <card number="1" name="Lantern of Insight" setShortName="5DN" collectorNumber="135" uuid="cb0e4c78-75fe-4692-b177-974b148f0614"/>
+        <card number="1" name="Maskwood Nexus" setShortName="SLD" collectorNumber="1904" uuid="404b3e0f-994e-49c8-b18a-ebbf418e741a"/>
+        <card number="1" name="Wheel of Fortune" setShortName="G10" collectorNumber="7" uuid="a8a47aa2-7274-465a-865b-68fe47d4fa81"/>
+        <card number="1" name="Wish" setShortName="PAFR" collectorNumber="166a" uuid="4267c785-0bd7-4759-a901-08f5b97b9035"/>
+        <card number="1" name="Millstone" setShortName="BRR" collectorNumber="95" uuid="a09915f3-1078-4cd4-8d22-d95fb8749693"/>
+        <card number="1" name="Lightning Bolt" setShortName="SLD" collectorNumber="83" uuid="45184cd7-b037-4a85-a063-e622ca928d17"/>
+        <card number="1" name="Mox Emerald" setShortName="LEA" collectorNumber="261" uuid="b0e1427c-05cd-465b-be59-97ed6e39f7ba"/>
+        <card number="1" name="Hypnotic Specter" setShortName="P06" collectorNumber="1" uuid="9b433633-42a1-4474-a9b8-2ff5e541f6d1"/>
+        <card number="1" name="Lightning Helix" setShortName="GK1" collectorNumber="90" uuid="5e47b7d8-defb-4405-8afe-ca6339b29886"/>
+        <card number="1" name="Mox Jet" setShortName="LEA" collectorNumber="262" uuid="92bcd1ce-19b1-4d78-8b09-95242ca08d76"/>
+        <card number="1" name="Steamfloggery" setShortName="UST" collectorNumber="96" uuid="c690d386-bd4f-4251-a475-0b016e2f29ee"/>
+        <card number="1" name="Mox Pearl" setShortName="LEA" collectorNumber="263" uuid="8ebe4be7-e12a-4596-a899-fbd5b152e879"/>
+        <card number="1" name="Lord of Atlantis" setShortName="PW24" collectorNumber="2" uuid="06711cfc-ddd6-4c86-838a-4caa6e5a924b"/>
+        <card number="1" name="Mox Ruby" setShortName="LEA" collectorNumber="264" uuid="8945585f-4773-493d-a0fe-d707db910b38"/>
+        <card number="1" name="Mox Sapphire" setShortName="LEA" collectorNumber="265" uuid="82da0972-b17b-4600-9efd-e9430a0db04b"/>
+        <card number="1" name="Hurloon Minotaur" setShortName="LEA" collectorNumber="158" uuid="78a9088f-8755-47cb-aa93-51d992ccab90"/>
+        <card number="1" name="Nevinyrral's Disk" setShortName="5ED" collectorNumber="391" uuid="9652c405-17fb-4505-8470-8a2969c73b6b"/>
+        <card number="1" name="Kiki-Jiki, Mirror Breaker" setShortName="SLD" collectorNumber="1659" uuid="8ec4694a-ac36-497c-a3f4-09d3f69939fe"/>
+        <card number="1" name="Skullclamp" setShortName="SLD" collectorNumber="1112" uuid="3668996e-659d-413b-84e6-9f3099518d7f"/>
+        <card number="1" name="Urza, Lord High Artificer" setShortName="MB2" collectorNumber="244" uuid="f531402e-681f-4439-837c-4e184efd5a49"/>
+        <card number="1" name="Sol Ring" setShortName="LEA" collectorNumber="269" uuid="c4300d24-1cae-4dd5-be7e-38cc677cf5bd"/>
+        <card number="1" name="Sort of _____ and _____" setShortName="UNK" collectorNumber="RA13" uuid="fc3191cb-7213-41d6-98d8-0330dbc86449"/>
+        <card number="1" name="Yawgmoth, Thran Physician" setShortName="MH1" collectorNumber="116" uuid="8690cbcc-f8fd-41f7-9e28-e61c12b04014"/>
+        <card number="1" name="The One Ring" setShortName="LTR" collectorNumber="0" uuid="93de9042-cc62-4ade-8d8d-68fdbc84bfae"/>
+        <card number="1" name="Umezawa's Jitte" setShortName="BOK" collectorNumber="163" uuid="3b6e5956-f795-451b-bb24-56462d1ced27"/>
+        <card number="1" name="Jace, the Mind Sculptor" setShortName="2XM" collectorNumber="56" uuid="c8817585-0d32-4d56-9142-0d29512e86a9"/>
+        <card number="1" name="Avenger of Zendikar" setShortName="DDP" collectorNumber="1" uuid="6a971200-0d89-45e2-8c1e-fb087642f7dc"/>
+        <card number="1" name="Oko, Thief of Crowns" setShortName="ELD" collectorNumber="197" uuid="3462a3d0-5552-49fa-9eb7-100960c55891"/>
+        <card number="1" name="Ragavan, Nimble Pilferer" setShortName="MH2" collectorNumber="315" uuid="b3e685f9-cc0f-4dc6-98dc-4727944de445"/>
+        <card number="1" name="Teferi, Time Raveler" setShortName="RVR" collectorNumber="232" uuid="662fe50f-d75c-422c-8c6c-1f9b5c4ba21f"/>
+        <card number="1" name="Birds of Paradise" setShortName="DMR" collectorNumber="151" uuid="496849a5-4b24-4eae-8bfb-d46f645d85ea"/>
+        <card number="1" name="Burning Wish" setShortName="CN2" collectorNumber="152" uuid="3abb0b65-b3de-4193-ae60-9b8ba55636b4"/>
+        <card number="1" name="Glittering Wish" setShortName="TSR" collectorNumber="253" uuid="0c89645b-5e53-48c0-b4bb-9f22332c7658"/>
+        <card number="1" name="Shivan Dragon" setShortName="P30T" collectorNumber="2" uuid="18927987-aeea-4af3-a1ea-90949772e56a"/>
+        <card number="1" name="Liliana of the Veil" setShortName="ISD" collectorNumber="105" uuid="ac506c17-adc8-49c6-9d8d-43db7cb1ec9d"/>
+        <card number="1" name="Bloodbraid Elf" setShortName="SLC" collectorNumber="2009" uuid="35964154-94b0-4f3f-ae8f-b7f9e31118c8"/>
+        <card number="1" name="Necropotence" setShortName="DKM" collectorNumber="7" uuid="70511f69-8615-4e45-bd4e-76acfe9e4278"/>
+        <card number="1" name="Damnation" setShortName="SPG" collectorNumber="68" uuid="93376e64-1086-43e1-9326-8cbe9f850233"/>
+        <card number="1" name="Deathrite Shaman" setShortName="GK1" collectorNumber="59" uuid="a65e485b-03a2-4634-9218-f5bb7c104d41"/>
+        <card number="1" name="Vizzerdrix" setShortName="7ED" collectorNumber="110★" uuid="249ecab6-e145-4dfd-9e9e-56492db30b4c"/>
+        <card number="1" name="Living Wish" setShortName="A25" collectorNumber="179" uuid="d505d319-093d-47af-8ee9-fafae3885aa0"/>
+        <card number="1" name="Young Pyromancer" setShortName="SS3" collectorNumber="8" uuid="2dd80b9f-5c35-438b-ba52-da0e3e8ff781"/>
+        <card number="1" name="Vindicate" setShortName="APC" collectorNumber="126" uuid="2a1bfefd-dae8-49e9-9d56-cc852e3dc93b"/>
+        <card number="1" name="Colossal Dreadmaw" setShortName="MB2" collectorNumber="67" uuid="e49de6f8-f837-4cef-96ff-a48448b453a1"/>
+        <card number="1" name="Craterhoof Behemoth" setShortName="TDM" collectorNumber="404" uuid="0e172790-7ab4-4dea-9439-e3cedd3e5cab"/>
+        <card number="1" name="Death Wish" setShortName="JUD" collectorNumber="64" uuid="7bf134c9-a50d-4eff-a5a8-7cfe6a010080"/>
+        <card number="1" name="Dread Return" setShortName="PD3" collectorNumber="23" uuid="33a27556-5fb2-42de-ae41-31c6afd583d8"/>
+        <card number="1" name="Platinum Angel" setShortName="MRD" collectorNumber="228" uuid="59bb5aee-b334-4c24-875b-56751d4add02"/>
+        <card number="1" name="Reanimate" setShortName="CC2" collectorNumber="5" uuid="d27c6aaa-289e-451e-8fde-97a044c53fc4"/>
+        <card number="1" name="Fog" setShortName="ARC" collectorNumber="56" uuid="54f1fc27-7b5d-4565-9c9a-f49d9aeadd3b"/>
+        <card number="1" name="Masticore" setShortName="V10" collectorNumber="7" uuid="e65cc594-cfa1-42d8-82a1-a99986b9ebb3"/>
+        <card number="1" name="Thoughtseize" setShortName="SLD" collectorNumber="1117" uuid="1ecc64b6-6f2c-4b20-aa80-54cc47382606"/>
+        <card number="1" name="Giant Growth" setShortName="8ED" collectorNumber="254★" uuid="7cc4adb1-85af-40ba-bd36-ccd2dc1cb227"/>
+        <card number="1" name="Eternal Witness" setShortName="SLD" collectorNumber="43" uuid="55bb37b7-3474-42af-abf0-0b713bf34174"/>
+        <card number="1" name="Naturalize" setShortName="M19" collectorNumber="190" uuid="390c40ba-2464-44ae-8d67-93c72ab3c425"/>
+        <card number="9" name="Booster Tutor" setShortName="UND" collectorNumber="33" uuid="0a5718db-e67d-468a-95ba-11a08fcf9fea"/>
+        <card number="1" name="Hymn to Tourach" setShortName="V13" collectorNumber="3" uuid="f4089e6c-51eb-44c4-8395-68e43cbed93d"/>
+        <card number="1" name="Grizzly Bears" setShortName="10E" collectorNumber="268" uuid="409f9b88-f03e-40b6-9883-68c14c37c0de"/>
+        <card number="8" name="Booster Tutor" setShortName="UNH" collectorNumber="51" uuid="c3a5b25e-c5af-417e-8675-162ab18ac2b1"/>
+        <card number="1" name="Nicol Bolas" setShortName="A25" collectorNumber="209" uuid="8e92ba96-372c-418d-b271-45e1bf5c7af5"/>
+        <card number="1" name="Llanowar Elves" setShortName="PDOM" collectorNumber="168" uuid="27a21d19-5631-43f8-817d-51ccb5aa0f05"/>
+        <card number="1" name="Yawgmoth's Will" setShortName="USG" collectorNumber="171" uuid="6d3e3c3a-d351-4d91-8884-312d4b6f540d"/>
+        <card number="1" name="Ancestral Recall" setShortName="30A" collectorNumber="344" uuid="d3c44b29-a973-4174-80a6-76edbd4f2a22"/>
+        <card number="1" name="Questing Beast" setShortName="SLD" collectorNumber="1263" uuid="de1c717a-ede7-4f6d-b9a9-da6cf0fd3d5d"/>
+        <card number="1" name="Dark Confidant" setShortName="J25" collectorNumber="114" uuid="c74e9388-460d-4dbf-934e-f3ecb48af6e8"/>
+        <card number="1" name="Siege Rhino" setShortName="KTK" collectorNumber="200" uuid="9011126a-20bd-4c86-a63b-1691f79ac247"/>
+        <card number="1" name="Blood Artist" setShortName="INR" collectorNumber="326" uuid="1bcda0fd-0def-41ef-932a-85e83acce99d"/>
+        <card number="1" name="Dark Ritual" setShortName="DDE" collectorNumber="18" uuid="5f363f93-be79-46c6-9dee-987d31da157a"/>
+        <card number="1" name="Doom Blade" setShortName="M12" collectorNumber="95" uuid="077d5ca8-2a94-4d79-9314-c5ca2aa4d14b"/>
+        <card number="1" name="One with Nothing" setShortName="SOK" collectorNumber="84" uuid="5a5841fa-4f30-495a-b840-3ef5a2af8fad"/>
+        <card number="1" name="Juzám Djinn" setShortName="ARN" collectorNumber="29" uuid="31bf3f14-b5df-498b-a1bb-965885c82401"/>
+        <card number="1" name="Lord of the Pit" setShortName="IMA" collectorNumber="96" uuid="5b626ab2-4cf6-42e8-a7e2-9c9f310d2f00"/>
+        <card number="1" name="Reassembling Skeleton" setShortName="SLD" collectorNumber="1406" uuid="bea44c06-900d-41b8-88fa-c1bede6ce757"/>
+        <card number="1" name="Griselbrand" setShortName="INR" collectorNumber="115" uuid="4069e510-f3f3-4668-9f13-3546fa9bc7c3"/>
+        <card number="1" name="Uro, Titan of Nature's Wrath" setShortName="SLD" collectorNumber="222" uuid="6f3b4542-bf78-4450-a4e0-bf757445c3c3"/>
+        <card number="1" name="Time Walk" setShortName="LEA" collectorNumber="83" uuid="e0139f60-d48e-46fb-9f5a-1e3d7558c834"/>
+        <card number="1" name="Tarmogoyf" setShortName="MM3" collectorNumber="141" uuid="2b49dfb7-dbe7-4a2b-b9de-c620a0db2e47"/>
+        <card number="1" name="Sengir Vampire" setShortName="MB2" collectorNumber="129" uuid="8801740a-c54d-4686-9b5e-fccd6d7699f5"/>
+        <card number="1" name="Timetwister" setShortName="LEA" collectorNumber="84" uuid="9a49dc44-616e-4bdd-8220-0bb71eccc512"/>
+        <card number="1" name="Brainstorm" setShortName="SLP" collectorNumber="1" uuid="8c09e891-247f-43f2-8d9d-2187631fb083"/>
+        <card number="1" name="Rhystic Study" setShortName="WOT" collectorNumber="25" uuid="043b2d30-a40f-4d47-933b-80544512f9c2"/>
+        <card number="1" name="Counterspell" setShortName="SS1" collectorNumber="4" uuid="16b0b5e6-ac30-417b-938a-31cda2f697f8"/>
+        <card number="1" name="Spike, Tournament Grinder" setShortName="UST" collectorNumber="69" uuid="b0e90b22-6f43-4e9a-a236-f33191768813"/>
+        <card number="1" name="Dandân" setShortName="SLD" collectorNumber="2139" uuid="1a056620-f9a3-4643-bf4a-1b7cfe2fcb63"/>
+        <card number="1" name="Delver of Secrets" setShortName="V17" collectorNumber="7" uuid="28059d09-2c7d-4c61-af55-8942107a7c1f"/>
+        <card number="1" name="Yargle, Glutton of Urborg" setShortName="DOM" collectorNumber="113" uuid="645cfc1b-76f2-4823-9fb0-03cb009f8b32"/>
+        <card number="1" name="Cryptic Command" setShortName="P09" collectorNumber="1" uuid="526607e9-1907-4639-b944-8ee152c81bfb"/>
+        <card number="1" name="Fblthp, Lost on the Range" setShortName="OTJ" collectorNumber="48" uuid="01d3e6ea-4791-4948-af22-c1bd04c34c1e"/>
+        <card number="1" name="Fblthp, the Lost" setShortName="SLD" collectorNumber="583" uuid="0b168b85-323c-4d95-80a5-851988522606"/>
+        <card number="1" name="Force of Will" setShortName="MP2" collectorNumber="14" uuid="026983a4-03ca-4812-b129-5ea523596942"/>
+        <card number="1" name="Merfolk Looter" setShortName="A25" collectorNumber="65" uuid="8cae1a42-052e-4110-9afc-d3ec83b7c8a9"/>
+        <card number="1" name="Morphling" setShortName="USG" collectorNumber="85" uuid="812f4d5c-aacf-4bd8-849d-80a357a7804d"/>
+        <card number="1" name="Prodigal Sorcerer" setShortName="SLD" collectorNumber="1672" uuid="6bce5aeb-0087-4ac6-96d2-6b3df55e4266"/>
+        <card number="1" name="Memory Lapse" setShortName="SLD" collectorNumber="2142" uuid="fc2215c0-2d08-42ab-be24-3f03bfdd9cdb"/>
+        <card number="1" name="Richard Garfield, Ph.D." setShortName="UND" collectorNumber="26" uuid="616a3755-f08c-4b8f-954b-7e3f3a8fa71f"/>
+        <card number="1" name="Snapcaster Mage" setShortName="ISD" collectorNumber="78" uuid="9e5b279e-4670-4a1e-87d0-3cab7e4f9e58"/>
+        <card number="1" name="Cunning Wish" setShortName="MB2" collectorNumber="159" uuid="826e1acd-776a-4293-a119-8e32487acfb9"/>
+        <card number="1" name="Fact or Fiction" setShortName="DMR" collectorNumber="48" uuid="f758a8b6-f586-4d27-9379-8f7c4a78d90c"/>
+        <card number="1" name="Storm Crow" setShortName="SLD" collectorNumber="60" uuid="7f7aa8e1-ada6-491a-b96f-43e89dae7834"/>
+        <card number="1" name="Cyclonic Rift" setShortName="SOA" collectorNumber="14" uuid="7037f57a-ca89-41bd-bf7f-2f54593c0f48"/>
+        <card number="1" name="Clone" setShortName="DDI" collectorNumber="14" uuid="828568fe-fafa-4f7f-b4ea-432fba4ed0cc"/>
+        <card number="1" name="Blighted Agent" setShortName="SLD" collectorNumber="1203" uuid="01842079-5c70-4e87-a1c5-c814a44ba0f5"/>
+        <card number="1" name="Disenchant" setShortName="FDN" collectorNumber="572" uuid="7ac43e16-8b14-46f2-877a-600ea918766b"/>
+        <card number="1" name="Healing Salve" setShortName="8ED" collectorNumber="22" uuid="41703ace-78e3-474e-b06a-43260c060471"/>
+        <card number="1" name="Pacifism" setShortName="A25" collectorNumber="28" uuid="7c5db339-9b27-404a-878d-16511b546862"/>
+        <card number="1" name="You're in Command" setShortName="CMB2" collectorNumber="15" uuid="f8604945-8dbb-47d1-a56c-9dcd84d2a6e7"/>
+        <card number="1" name="Wrath of God" setShortName="DMR" collectorNumber="37" uuid="c3700519-b74c-4445-b42e-03690b8d4463"/>
+        <card number="1" name="Swords to Plowshares" setShortName="MB2" collectorNumber="153" uuid="b635680a-12ae-49f8-a3d7-7254cb0962ec"/>
+        <card number="1" name="Golden Wish" setShortName="JUD" collectorNumber="12" uuid="dc409ded-41f3-4f14-8199-72a9fe98bac0"/>
+        <card number="1" name="Glorious Anthem" setShortName="10E" collectorNumber="17" uuid="2efbc588-019e-416a-938c-4ccbe7121335"/>
+        <card number="1" name="Restoration Angel" setShortName="IMA" collectorNumber="28" uuid="3b5233ff-03bc-4053-9b49-c4185c2de38d"/>
+        <card number="1" name="Serra Angel" setShortName="PMDA" collectorNumber="3" uuid="7c81d8b2-b776-4e20-9671-6f3f89f6d78b"/>
+        <card number="1" name="Soul Warden" setShortName="PLST" collectorNumber="MM3-24" uuid="37fee9ca-a9bc-4369-b71f-69f4183d1c1e"/>
+        <card number="1" name="Soul's Attendant" setShortName="PLST" collectorNumber="ROE-44" uuid="819219bd-1364-4032-ab5b-6f5ac73b394a"/>
+        <card number="1" name="Sun Titan" setShortName="TDC" collectorNumber="133" uuid="c7974707-88bf-474b-b1a9-30733c16b1ef"/>
+        <card number="1" name="Avacyn, Angel of Hope" setShortName="CMM" collectorNumber="14" uuid="317f1133-7cf8-4b7a-919e-88c45f8c2c3a"/>
+        <card number="1" name="Flickerwisp" setShortName="2X2" collectorNumber="339" uuid="a595d04e-4cdb-49d1-a323-7b6d1e3ccbe9"/>
+        <card number="1" name="Armageddon" setShortName="SOA" collectorNumber="68" uuid="cf980fc6-84ed-4c79-ba66-ecc6146a8085"/>
+        <card number="1" name="Emrakul, the Aeons Torn" setShortName="PPRO" collectorNumber="2017" uuid="4e8b085d-f66e-47e8-bc77-a551f1136ee8"/>
+        <card number="1" name="Kozilek, Butcher of Truth" setShortName="2X2" collectorNumber="576" uuid="6c2f9d5b-8a88-443d-8046-2b2a77fd1d64"/>
+        <card number="1" name="Ulamog, the Infinite Gyre" setShortName="2X2" collectorNumber="337" uuid="cbc085e9-bbb2-463a-b35c-bee13008a2c6"/>
+        <card number="1" name="Eldrazi Conscription" setShortName="SOC" collectorNumber="131" uuid="33965c48-a7ce-4a04-8251-8eeb2d908c0b"/>
     </zone>
 </cockatrice_deck>

@@ -5,3 +5,5 @@
 To play:
 One person loads the Hellbox Decklist (contains all main deck cards)
 Every other player loads the Hellbox Extra Decklist (contains all extra deck cards)
+
+The person with the Hellbox Decklist deals out all cards.

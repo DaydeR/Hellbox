@@ -8,61 +8,36 @@
     </set>
   </sets>
   <cards>
-  <card>
-      <name>Absolute Annihilation (HELL)</name>
-      <text>Perpetually remove target permanent or spell from the game.
-Exile Absolute Annihilation.</text>
+    <card>
+      <name>Absolute Annihilation</name>
+      <text>Perpetually remove target permanent or spell from the game.</text>
       <prop>
         <maintype>Instant</maintype>
         <cmc>7</cmc>
-        <manacost>4CCC</manacost>
+        <manacost>7</manacost>
         <side>front</side>
         <layout>normal</layout>
         <type>Instant</type>
       </prop>
       <set>HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
 	  <tablerow>3</tablerow>
     </card>
 	<card>
-      <name>Emrakul, the Aeons Torn (HELL)</name>
-      <text>This spell can't be countered.
-When you cast this spell, take an extra turn after this one.
-Flying, protection from spells that are one or more colors, annihilator 6
-When Emrakul, the Aeons Torn is put into a graveyard from anywhere, its owner shuffles their graveyard into their library.</text>
+      <name>Bill</name>
+      <text>Draw two cards.</text>
       <prop>
-        <maintype>Creature</maintype>
-        <pt>15/15</pt>
-        <cmc>15</cmc>
-        <manacost>15</manacost>
+        <maintype>Sorcery</maintype>
+        <cmc>0</cmc>
+        <manacost>0</manacost>
         <side>front</side>
         <layout>normal</layout>
-        <type>Legendary Creature — Eldrazi</type>
+        <type>Sorcery</type>
       </prop>
-      <set muid="571334" rarity="mythic" num="4" uuid="765fd969-d3da-426a-8bf2-d4e1bb7ae878">HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
-      <tablerow>2</tablerow>
-    </card>
-	<card>
-      <name>Kozilek, Butcher of Truth (HELL)</name>
-      <text>When you cast this spell, draw four cards.
-Annihilator 4
-When Kozilek, Butcher of Truth is put into a graveyard from anywhere, its owner shuffles their graveyard into their library.</text>
-      <prop>
-        <maintype>Creature</maintype>
-        <pt>12/12</pt>
-        <cmc>10</cmc>
-        <manacost>10</manacost>
-        <side>front</side>
-        <layout>normal</layout>
-        <type>Legendary Creature — Eldrazi</type>
-      </prop>
-      <set muid="571335" rarity="mythic" num="9" uuid="6c2f9d5b-8a88-443d-8046-2b2a77fd1d64">HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
-      <tablerow>2</tablerow>
+      <set>HELL</set>
+      <tablerow>3</tablerow>
     </card>
   	<card>
-      <name>Joker (HELL)</name>
+      <name>Joker</name>
       <text>Can be played as if it was any card.</text>
       <prop>
         <maintype>Wild Card</maintype>
@@ -72,11 +47,10 @@ When Kozilek, Butcher of Truth is put into a graveyard from anywhere, its owner 
 		<type>Wild Card</type>
       </prop>
       <set>HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
     </card>
   	<card>
-      <name>Magic Joker (HELL)</name>
+      <name>Magic Joker</name>
       <text>Can be played as if it was any Magic: The Gathering card.</text>
       <prop>
         <maintype>Wild Card</maintype>
@@ -86,30 +60,68 @@ When Kozilek, Butcher of Truth is put into a graveyard from anywhere, its owner 
 		<type>Wild Card — Magic</type>
       </prop>
       <set>HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
     </card>
 	<card>
-      <name>Ulamog, the Infinite Gyre (HELL)</name>
-      <text>When you cast this spell, destroy target permanent.
-Indestructible
-Annihilator 4
-When Ulamog, the Infinite Gyre is put into a graveyard from anywhere, its owner shuffles their graveyard into their library.</text>
+      <name>Mirror Force</name>
+      <text>You can’t cast Mirror Force from your hand.
+Set Face Down (You may put this card from your hand onto the battlefield as an enchantment. You may turn it face up on a later turn and cast it for its mana cost.)
+Destroy all attacking creatures you don’t control.</text>
       <prop>
-        <maintype>Creature</maintype>
-        <pt>10/10</pt>
-        <cmc>11</cmc>
-        <manacost>11</manacost>
+        <maintype>Instant</maintype>
+        <cmc>0</cmc>
+        <manacost>0</manacost>
         <side>front</side>
         <layout>normal</layout>
-        <type>Legendary Creature — Eldrazi</type>
+        <type>Instant — Trap</type>
       </prop>
-      <set muid="571336" rarity="mythic" num="12" uuid="cbc085e9-bbb2-463a-b35c-bee13008a2c6">HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
-      <tablerow>2</tablerow>
+      <set>HELL</set>
+      <tablerow>3</tablerow>
     </card>
   	<card>
-      <name>Yu-Gi-Oh! Joker (HELL)</name>
+      <name>Pokémon Joker</name>
+      <text>Can be played as if it was any Pokémon card.</text>
+      <prop>
+        <maintype>Wild Card</maintype>
+		<cmc>0</cmc>
+        <side>front</side>
+        <layout>normal</layout>
+		<type>Wild Card — Pokémon</type>
+      </prop>
+      <set>HELL</set>
+      <tablerow>3</tablerow>
+    </card>
+	<card>
+      <name>Pot of Greed</name>
+      <text>Set Face Down (You may put this card from your hand onto the battlefield as an enchantment. You may turn it face up on a later turn and cast it for its mana cost.)
+Draw two cards.</text>
+      <prop>
+        <maintype>Sorcery</maintype>
+        <cmc>0</cmc>
+        <manacost>0</manacost>
+        <side>front</side>
+        <layout>normal</layout>
+        <type>Sorcery</type>
+      </prop>
+      <set>HELL</set>
+      <tablerow>3</tablerow>
+    </card>
+	<card>
+      <name>Professor Oak</name>
+      <text>Discard your hand, then draw seven cards.</text>
+      <prop>
+        <maintype>Sorcery</maintype>
+        <cmc>0</cmc>
+        <manacost>0</manacost>
+        <side>front</side>
+        <layout>normal</layout>
+        <type>Sorcery</type>
+      </prop>
+      <set>HELL</set>
+      <tablerow>3</tablerow>
+    </card>
+  	<card>
+      <name>Yu-Gi-Oh! Joker</name>
       <text>Can be played as if it was any Yu-Gi-Oh! card.</text>
       <prop>
         <maintype>Wild Card</maintype>
@@ -119,128 +131,28 @@ When Ulamog, the Infinite Gyre is put into a graveyard from anywhere, its owner 
 		<type>Wild Card — Yu-Gi-Oh!</type>
       </prop>
       <set>HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
       <tablerow>3</tablerow>
     </card>
-    <card>
-      <name>Golden Wish (HELL)</name>
-      <text>You may reveal an artifact or enchantment card you own from outside the game and put it into your hand. Exile Golden Wish.</text>
+	<card>
+      <name>Blue-Eyes White Dragon</name>
+      <text>(This creature's casting cost is &quot;Sacrifice two creatures&quot;. This creature can also be cast face down as a 2/2 creature with Defender, &quot;Flip Summon — {0}: Turn this creature face up. Activate only as a sorcery.&quot;, and &quot;When this creature blocks or is dealt damage, turn it face up.&quot;)</text>
       <prop>
-        <layout>normal</layout>
-        <coloridentity>W</coloridentity>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
-        <side>front</side>
-        <manacost>3WW</manacost>
+        <maintype>Creature</maintype>
+        <pt>3000/2500</pt>
+        <cmc>8</cmc>
         <colors>W</colors>
-        <cmc>5</cmc>
+        <manacost>☆☆☆☆☆☆☆☆</manacost>
+        <side>front</side>
+		<coloridentity>W</coloridentity>
+        <layout>normal</layout>
+        <type>Creature — Dragon</type>
       </prop>
-      <set num="12" rarity="rare" muid="34399" uuid="dc409ded-41f3-4f14-8199-72a9fe98bac0">HELL</set>
-	  <related persistent="persistent">Golden Token (HELL)</related>
-	  <related attach="transform">Omni-Land (HELL)</related>
-      <tablerow>3</tablerow>
+      <set>HELL</set>
+      <tablerow>2</tablerow>
     </card>
     <card>
-      <name>Golden Token (HELL)</name>
-      <text></text>
-      <prop>
-        <type>Token Artifact / Enchantment</type>
-        <maintype>Token</maintype>
-        <layout>normal</layout>
-        <side>front</side>
-      </prop>
-      <set num="12" rarity="rare" muid="34399" uuid="dc409ded-41f3-4f14-8199-72a9fe98bac0">HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
-	  <tablerow>1</tablerow>
-	</card>
-	<card>
-      <name>Healing Salve (HELL)</name>
-      <text>Choose one —
-• Target player gains 3 life.
-• Prevent the next 3 damage that would be dealt to any target this turn.</text>
-      <prop>
-        <maintype>Instant</maintype>
-        <cmc>1</cmc>
-        <colors>W</colors>
-        <manacost>W</manacost>
-        <side>front</side>
-        <coloridentity>W</coloridentity>
-        <layout>normal</layout>
-        <type>Instant</type>
-      </prop>
-      <set num="22" rarity="common" muid="253" uuid="e28de37e-84d5-4dc7-b36c-e14da5924729">HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
-      <tablerow>3</tablerow>
-    </card>
-	<card>
-      <name>Ancestral Recall (HELL)</name>
-      <text>Target player draws three cards.</text>
-      <prop>
-        <maintype>Instant</maintype>
-        <cmc>1</cmc>
-        <colors>U</colors>
-        <manacost>U</manacost>
-        <side>front</side>
-        <coloridentity>U</coloridentity>
-        <layout>normal</layout>
-        <type>Instant</type>
-      </prop>
-      <set num="47" rarity="rare" muid="95" uuid="70e7ddf2-5604-41e7-bb9d-ddd03d3e9d0b">HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
-      <tablerow>3</tablerow>
-    </card>
-	<card>
-      <name>Counterspell (HELL)</name>
-      <text>Counter target spell.</text>
-      <prop>
-        <maintype>Instant</maintype>
-        <cmc>2</cmc>
-        <colors>U</colors>
-        <manacost>UU</manacost>
-        <side>front</side>
-        <coloridentity>U</coloridentity>
-        <layout>normal</layout>
-        <type>Instant</type>
-      </prop>
-      <set muid="517565" rarity="rare" num="54" uuid="16b0b5e6-ac30-417b-938a-31cda2f697f8">HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
-      <tablerow>3</tablerow>
-    </card>
-    <card>
-      <name>Cunning Wish (HELL)</name>
-      <text>You may reveal an instant card you own from outside the game and put it into your hand. Exile Cunning Wish.</text>
-      <prop>
-        <layout>normal</layout>
-        <coloridentity>U</coloridentity>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
-        <side>front</side>
-        <manacost>2U</manacost>
-        <colors>U</colors>
-        <cmc>3</cmc>
-      </prop>
-      <set num="2" rarity="rare" uuid="c40e77eb-4363-4fd6-9f38-877d42e0f48c">HELL</set>
-	  <related persistent="persistent">Cunning Token (HELL)</related>
-	  <related attach="transform">Omni-Land (HELL)</related>
-      <tablerow>3</tablerow>
-    </card>
-    <card>
-      <name>Cunning Token (HELL)</name>	
-      <text></text>
-      <prop>
-        <type>Token Instant</type>
-        <maintype>Token</maintype>
-        <layout>normal</layout>
-        <side>front</side>
-      </prop>
-      <set num="2" rarity="rare" uuid="c40e77eb-4363-4fd6-9f38-877d42e0f48c">HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
-	  <tablerow>3</tablerow>
-	</card>
-    <card>
-      <name>In Perpetuity (HELL)</name>
-      <text>Target permanent, spell, or card in a graveyard perpetually gains any continuous effects that are affecting it.
-Exile In Perpetuity.</text>
+      <name>Reality Snapshot</name>
+      <text>Target permanent, spell, or card in a graveyard perpetually gains all continuous effects currently affecting it.</text>
       <prop>
         <maintype>Instant</maintype>
         <cmc>3</cmc>
@@ -251,821 +163,139 @@ Exile In Perpetuity.</text>
         <type>Instant</type>
       </prop>
       <set>HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
 	  <tablerow>3</tablerow>
     </card>
 	<card>
-      <name>Time Walk (HELL)</name>
-      <text>Take an extra turn after this one.</text>
+      <name>Radiant Greninja</name>
+      <text>(Once per turn, as a sorcery, you may attach a land you control to a Pokémon you control as an energy. Pokémon can be attacked and dealt damage like Planeswalkers. If a source an opponent controls would deal enough damage to a Pokémon to destroy it, they draw a card.)
+Radiant (You can only have one card with Radiant in your deck)
+Ability: Concealed Cards - Discard a land: Draw two cards. Activate only as a sorcery and only once each turn.
+Moonlight Shuriken — {1}{U}{U}, sacrifice two lands attached to this Pokémon: This Pokémon deals 90 damage to two target creatures or Pokémon. Activate only as a sorcery and only once each turn. Spend only mana produced by energy attached to this Pokémon to activate this ability.
+Weakness to Yellow (If a yellow source would deal damage to this Pokémon, it deals double that damage to this Pokémon instead)
+Retreat 1 (Sacrifice a land attached to this Pokémon. It phases out until another Pokémon phases it back in. Then, one other phased out Pokémon you own can phase in.)</text>
       <prop>
-        <maintype>Sorcery</maintype>
-        <cmc>2</cmc>
-        <colors>U</colors>
-        <manacost>1U</manacost>
+        <manacost>0</manacost>
         <side>front</side>
+        <type>Basic Pokémon — Frog Ninja</type>
         <coloridentity>U</coloridentity>
         <layout>normal</layout>
-        <type>Sorcery</type>
-      </prop>
-      <set num="83" rarity="rare" muid="131" uuid="e0139f60-d48e-46fb-9f5a-1e3d7558c834">HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
-      <tablerow>3</tablerow>
-    </card>
-	<card>
-      <name>Timetwister (HELL)</name>
-      <text>Each player shuffles their hand and graveyard into their library, then draws seven cards.</text>
-      <prop>
-        <maintype>Sorcery</maintype>
-        <cmc>3</cmc>
         <colors>U</colors>
-        <manacost>2U</manacost>
-        <side>front</side>
-        <coloridentity>U</coloridentity>
-        <layout>normal</layout>
-        <type>Sorcery</type>
-      </prop>
-      <set num="84" rarity="rare" muid="132" uuid="9a49dc44-616e-4bdd-8220-0bb71eccc512">HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
-      <tablerow>3</tablerow>
-    </card>
-	<card>
-      <name>Booster Tutor (HELL)</name>
-      <text>Open a sealed booster pack, reveal the cards, and put one of them into your hand.</text>
-      <prop>
-        <maintype>Instant</maintype>
-        <cmc>1</cmc>
-        <colors>B</colors>
-        <manacost>B</manacost>
-        <side>front</side>
-        <coloridentity>B</coloridentity>
-        <layout>normal</layout>
-        <type>Instant</type>
-      </prop>
-      <set muid="479427" rarity="uncommon" num="102" uuid="0a5718db-e67d-468a-95ba-11a08fcf9fea">HELL</set>
-	  <related persistent="persistent">Booster Token (HELL)</related>
-	  <related attach="transform">Omni-Land (HELL)</related>
-      <tablerow>3</tablerow>
-    </card>
-	<card>
-      <name>Booster Token (HELL)</name>
-      <text></text>
-      <prop>
-        <maintype>Token</maintype>
-        <side>front</side>
-        <layout>normal</layout>
-        <type>Token</type>
-      </prop>
-      <set muid="479427" rarity="uncommon" num="102" uuid="0a5718db-e67d-468a-95ba-11a08fcf9fea">HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
-      <tablerow>3</tablerow>
-    </card>
-	<card>
-      <name>Custom Wish (HELL)</name>
-      <text>Reveal a custom card from outside the game. The owner of the box votes for add or skip. If add gets more votes, add that card to your hand. If skip gets more votes or the vote is tied, draw a card.
-Exile Custom Wish.</text>
-      <prop>
-        <maintype>Instant</maintype>
-        <cmc>2</cmc>
-        <colors>B</colors>
-        <manacost>1BB</manacost>
-        <side>front</side>
-        <coloridentity>B</coloridentity>
-        <layout>normal</layout>
-        <type>Instant</type>
+        <maintype>Pokémon</maintype>
+        <cmc>0</cmc>
       </prop>
       <set>HELL</set>
-	  <related persistent="persistent">Custom Token (HELL)</related>
-	  <related attach="transform">Omni-Land (HELL)</related>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
     </card>
 	<card>
-      <name>Custom Token (HELL)</name>
-      <text></text>
+      <name>Dark Magician</name>
+      <text>(This creature's casting cost is &quot;Sacrifice two creatures&quot;. This creature can also be cast face down as a 2/2 creature with Defender, &quot;Flip Summon — {0}: Turn this creature face up. Activate only as a sorcery.&quot;, and &quot;When this creature blocks or is dealt damage, turn it face up.&quot;)</text>
       <prop>
-        <type>Token</type>
-        <maintype>Token</maintype>
-        <layout>normal</layout>
-        <side>front</side>
-      </prop>
-      <set uuid="cd66d5bb-a0cc-48fa-9d98-4195debc188a" muid="439463" rarity="mythic" num="74">HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
-	  <tablerow>3</tablerow>
-    </card>
-	<card>
-      <name>Dark Ritual (HELL)</name>
-      <text>Add {B}{B}{B}.</text>
-      <prop>
-        <maintype>Instant</maintype>
-        <cmc>1</cmc>
+        <maintype>Creature</maintype>
+        <pt>2500/2100</pt>
+        <cmc>7</cmc>
         <colors>B</colors>
-        <manacost>B</manacost>
+        <manacost>☆☆☆☆☆☆☆</manacost>
         <side>front</side>
-        <coloridentity>B</coloridentity>
+		<coloridentity>B</coloridentity>
         <layout>normal</layout>
-        <type>Instant</type>
-      </prop>
-      <set num="16" rarity="rare" uuid="ed01a644-f25c-44ee-aa42-688203032798">HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
-      <tablerow>3</tablerow>
-    </card>
-    <card>
-      <name>Death Wish (HELL)</name>
-      <text>You may put a card you own from outside the game into your hand. You lose half your life, rounded up. Exile Death Wish.</text>
-      <prop>
-        <layout>normal</layout>
-        <coloridentity>B</coloridentity>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
-        <side>front</side>
-        <manacost>1BB</manacost>
-        <colors>B</colors>
-        <cmc>3</cmc>
-      </prop>
-      <set num="64" rarity="rare" muid="34402" uuid="7bf134c9-a50d-4eff-a5a8-7cfe6a010080">HELL</set>
-	  <related persistent="persistent">Death Token (HELL)</related>
-	  <related attach="transform">Omni-Land (HELL)</related>
-      <tablerow>3</tablerow>
-    </card>
-    <card>
-      <name>Death Token (HELL)</name>
-      <text></text>
-      <prop>
-        <type>Token</type>
-        <maintype>Token</maintype>
-        <layout>normal</layout>
-        <side>front</side>
-      </prop>
-      <set num="64" rarity="rare" muid="34402" uuid="7bf134c9-a50d-4eff-a5a8-7cfe6a010080">HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
-	  <tablerow>3</tablerow>
-	</card>
-    <card>
-      <name>Burning Wish (HELL)</name>
-      <text>You may reveal a sorcery card you own from outside the game and put it into your hand. Exile Burning Wish.</text>
-      <prop>
-        <layout>normal</layout>
-        <coloridentity>R</coloridentity>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
-        <side>front</side>
-        <manacost>1R</manacost>
-        <colors>R</colors>
-        <cmc>2</cmc>
-      </prop>
-      <set num="5" rarity="rare" uuid="c2d7235f-3716-4c1e-affd-19e57ca97788">HELL</set>
-	  <related persistent="persistent">Burning Token (HELL)</related>
-	  <related attach="transform">Omni-Land (HELL)</related>
-      <tablerow>3</tablerow>
-    </card>
-    <card>
-      <name>Burning Token (HELL)</name>	
-      <text></text>
-      <prop>
-        <type>Token Sorcery</type>
-        <maintype>Token</maintype>
-        <layout>normal</layout>
-        <side>front</side>
-      </prop>
-      <set num="5" rarity="rare" uuid="c2d7235f-3716-4c1e-affd-19e57ca97788">HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
-	  <tablerow>3</tablerow>
-	</card>
-	<card>
-      <name>Chaotic Wish (HELL)</name>
-      <text>Choose a card name at random. Create a copy of the card with the chosen name. Add that copy to your hand.</text>
-      <prop>
-        <colors>R</colors>
-        <manacost>R</manacost>
-        <coloridentity>R</coloridentity>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
-        <cmc>1</cmc>
-        <layout>normal</layout>
-        <side>front</side>
+        <type>Creature — Spirit Wizard</type>
       </prop>
       <set>HELL</set>
-	  <related persistent="persistent">Chaotic Token (HELL)</related>
-	  <related attach="transform">Omni-Land (HELL)</related>
-      <tablerow>3</tablerow>
+      <tablerow>2</tablerow>
     </card>
-    <card>
-      <name>Chaotic Token (HELL)</name>	
-      <text></text>
+	<card>
+      <name>Red-Eyes Black Dragon</name>
+      <text>(This creature's casting cost is &quot;Sacrifice two creatures&quot;. This creature can also be cast face down as a 2/2 creature with Defender, &quot;Flip Summon — {0}: Turn this creature face up. Activate only as a sorcery.&quot;, and &quot;When this creature blocks or is dealt damage, turn it face up.&quot;)</text>
       <prop>
-        <type>Token</type>
-        <maintype>Token</maintype>
+        <maintype>Creature</maintype>
+        <pt>2400/2000</pt>
+        <cmc>7</cmc>
+        <colors>B</colors>
+        <manacost>☆☆☆☆☆☆☆</manacost>
+        <side>front</side>
+		<coloridentity>B</coloridentity>
         <layout>normal</layout>
-        <side>front</side>
-      </prop>
-      <set>HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
-	  <tablerow>2</tablerow>
-	</card>
-    <card>
-      <name>Lightning Bolt (HELL)</name>
-      <text>Lightning Bolt deals 3 damage to any target.</text>
-      <prop>
-        <layout>normal</layout>
-        <coloridentity>R</coloridentity>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
-        <side>front</side>
-        <manacost>R</manacost>
-        <colors>R</colors>
-        <cmc>1</cmc>
-      </prop>
-      <set num="161" rarity="common" muid="209" uuid="45184cd7-b037-4a85-a063-e622ca928d17">HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
-      <tablerow>3</tablerow>
-    </card>
-    <card>
-      <name>Shivan Dragon (HELL)</name>
-      <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
-{R}: Shivan Dragon gets +1/+0 until end of turn.</text>
-      <prop>
-        <manacost>4RR</manacost>
-        <side>front</side>
         <type>Creature — Dragon</type>
-        <pt>5/5</pt>
-        <coloridentity>R</coloridentity>
-        <layout>normal</layout>
-        <colors>R</colors>
-        <maintype>Creature</maintype>
-        <cmc>6</cmc>
-      </prop>
-      <set num="2" rarity="rare" uuid="fefbf149-f988-4f8b-9f53-56f5878116a6">HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
-      <tablerow>2</tablerow>
-    </card>
-    <card>
-      <name>Wish (HELL)</name>
-      <text>You may play a card you own from outside the game this turn.</text>
-      <prop>
-        <layout>normal</layout>
-        <coloridentity>R</coloridentity>
-        <cmc>3</cmc>
-        <colors>R</colors>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
-        <side>front</side>
-        <manacost>2R</manacost>
-      </prop>
-      <set uuid="3ed021d2-e2bc-44b3-8934-4bd02e0a42ec" muid="527453" rarity="rare" num="166">HELL</set>
-      <related persistent="persistent">Wish Token (HELL)</related>
-	  <related attach="transform">Omni-Land (HELL)</related>
-	  <tablerow>3</tablerow>
-    </card>
-	<card>
-      <name>Wish Token (HELL)</name>
-      <text></text>
-      <prop>
-        <maintype>Token</maintype>
-        <side>front</side>
-        <layout>normal</layout>
-        <type>Token</type>
-      </prop>
-      <set muid="479427" rarity="uncommon" num="102" uuid="0a5718db-e67d-468a-95ba-11a08fcf9fea">HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
-      <tablerow>3</tablerow>
-    </card>
-    <card>
-      <name>Giant Growth (HELL)</name>
-      <text>Target creature gets +3/+3 until end of turn.</text>
-      <prop>
-        <layout>normal</layout>
-        <coloridentity>G</coloridentity>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
-        <side>front</side>
-        <manacost>G</manacost>
-        <colors>G</colors>
-        <cmc>1</cmc>
-      </prop>
-      <set num="197" rarity="common" muid="153" uuid="7cc4adb1-85af-40ba-bd36-ccd2dc1cb227">HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
-      <tablerow>3</tablerow>
-    </card>
-    <card>
-      <name>Living Wish (HELL)</name>
-      <text>You may reveal a creature or land card you own from outside the game and put it into your hand. Exile Living Wish.</text>
-      <prop>
-        <layout>normal</layout>
-        <coloridentity>G</coloridentity>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
-        <side>front</side>
-        <manacost>1G</manacost>
-        <colors>G</colors>
-        <cmc>2</cmc>
-      </prop>
-      <set num="179" rarity="rare" muid="442168" uuid="d505d319-093d-47af-8ee9-fafae3885aa0">HELL</set>
-	  <related persistent="persistent">Living Token (HELL)</related>
-	  <related attach="transform">Omni-Land (HELL)</related>
-      <tablerow>3</tablerow>
-    </card>
-    <card>
-      <name>Living Token (HELL)</name>
-      <text></text>
-      <prop>
-        <type>Token Creature / Land</type>
-        <maintype>Token</maintype>
-        <layout>normal</layout>
-        <side>front</side>
-      </prop>
-      <set num="179" rarity="rare" muid="442168" uuid="d505d319-093d-47af-8ee9-fafae3885aa0">HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
-	  <tablerow>2</tablerow>
-	</card>
-    <card>
-      <name>Llanowar Elves (HELL)</name>
-      <text>{T}: Add {G}.</text>
-      <prop>
-        <colors>G</colors>
-        <manacost>G</manacost>
-        <coloridentity>G</coloridentity>
-        <type>Creature — Elf Druid</type>
-        <maintype>Creature</maintype>
-        <cmc>1</cmc>
-        <pt>1/1</pt>
-        <layout>normal</layout>
-        <side>front</side>
-      </prop>
-      <set uuid="27a21d19-5631-43f8-817d-51ccb5aa0f05" muid="413717" rarity="common" num="175">HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
-      <tablerow>2</tablerow>
-    </card>
-    <card>
-      <name>Glittering Wish (HELL)</name>
-      <text>You may reveal a multicolored card you own from outside the game and put it into your hand. Exile Glittering Wish.</text>
-      <prop>
-        <colors>WG</colors>
-        <manacost>GW</manacost>
-        <coloridentity>WG</coloridentity>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
-        <cmc>2</cmc>
-        <layout>normal</layout>
-        <side>front</side>
-      </prop>
-      <set uuid="0c89645b-5e53-48c0-b4bb-9f22332c7658" muid="509618" rarity="rare" num="253">HELL</set>
-      <related persistent="persistent">Glittering Token (HELL)</related>
-	  <related attach="transform">Omni-Land (HELL)</related>
-	  <tablerow>3</tablerow>
-    </card>
-    <card>
-      <name>Glittering Token (HELL)</name>
-      <text></text>
-      <prop>
-        <type>Token</type>
-        <maintype>Token</maintype>
-        <layout>normal</layout>
-        <side>front</side>
-      </prop>
-      <set uuid="0c89645b-5e53-48c0-b4bb-9f22332c7658" muid="509618" rarity="rare" num="253">HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
-	  <tablerow>3</tablerow>
-    </card>
-    <card>
-      <name>Black Lotus (HELL)</name>
-      <text>{T}, Sacrifice Black Lotus: Add three mana of any one color.</text>
-      <prop>
-        <layout>normal</layout>
-        <type>Artifact</type>
-        <maintype>Artifact</maintype>
-        <side>front</side>
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-      </prop>
-      <set num="232" rarity="rare" muid="3" uuid="b0faa7f2-b547-42c4-a810-839da50dadfe">HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
-      <tablerow>1</tablerow>
-    </card>
-    <card>
-      <name>Mox Emerald (HELL)</name>
-      <text>{T}: Add {G}.</text>
-      <prop>
-        <layout>normal</layout>
-        <coloridentity>G</coloridentity>
-        <type>Artifact</type>
-        <maintype>Artifact</maintype>
-        <side>front</side>
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-      </prop>
-      <set num="261" rarity="rare" muid="32" uuid="b0e1427c-05cd-465b-be59-97ed6e39f7ba">HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
-      <tablerow>1</tablerow>
-    </card>
-    <card>
-      <name>Mox Jet (HELL)</name>
-      <text>{T}: Add {B}.</text>
-      <prop>
-        <layout>normal</layout>
-        <coloridentity>B</coloridentity>
-        <type>Artifact</type>
-        <maintype>Artifact</maintype>
-        <side>front</side>
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-      </prop>
-      <set num="262" rarity="rare" muid="33" uuid="92bcd1ce-19b1-4d78-8b09-95242ca08d76">HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
-      <tablerow>1</tablerow>
-    </card>
-    <card>
-      <name>Mox Pearl (HELL)</name>
-      <text>{T}: Add {W}.</text>
-      <prop>
-        <layout>normal</layout>
-        <coloridentity>W</coloridentity>
-        <type>Artifact</type>
-        <maintype>Artifact</maintype>
-        <side>front</side>
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-      </prop>
-      <set num="263" rarity="rare" muid="34" uuid="8ebe4be7-e12a-4596-a899-fbd5b152e879">HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
-      <tablerow>1</tablerow>
-    </card>
-    <card>
-      <name>Mox Ruby (HELL)</name>
-      <text>{T}: Add {R}.</text>
-      <prop>
-        <layout>normal</layout>
-        <coloridentity>R</coloridentity>
-        <type>Artifact</type>
-        <maintype>Artifact</maintype>
-        <side>front</side>
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-      </prop>
-      <set num="264" rarity="rare" muid="35" uuid="8945585f-4773-493d-a0fe-d707db910b38">HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
-      <tablerow>1</tablerow>
-    </card>
-    <card>
-      <name>Mox Sapphire (HELL)</name>
-      <text>{T}: Add {U}.</text>
-      <prop>
-        <layout>normal</layout>
-        <coloridentity>U</coloridentity>
-        <type>Artifact</type>
-        <maintype>Artifact</maintype>
-        <side>front</side>
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-      </prop>
-      <set num="265" rarity="rare" muid="36" uuid="82da0972-b17b-4600-9efd-e9430a0db04b">HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
-      <tablerow>1</tablerow>
-    </card>
-    <card>
-      <name>Sol Ring (HELL)</name>
-      <text>{T}: Add {C}{C}.</text>
-      <prop>
-        <layout>normal</layout>
-        <type>Artifact</type>
-        <maintype>Artifact</maintype>
-        <side>front</side>
-        <manacost>1</manacost>
-        <cmc>1</cmc>
-      </prop>
-      <set num="269" rarity="uncommon" muid="40" uuid="c4300d24-1cae-4dd5-be7e-38cc677cf5bd">HELL</set>
-	  <related attach="transform">Omni-Land (HELL)</related>
-      <tablerow>1</tablerow>
-    </card>
-	<card>
-      <name>Omni-Land (HELL)</name>
-      <text>{T}: Add {C}{C}.</text>
-      <prop>
-        <maintype>Land</maintype>
-        <cmc>4</cmc>
-        <side>front</side>
-        <layout>normal</layout>
-        <type>Land - Plains Island Swamp Mountain Forest</type>
       </prop>
       <set>HELL</set>
-      <tablerow>0</tablerow>
+      <tablerow>2</tablerow>
     </card>
-    <card>
-      <name>Balloon Stand (HELL)</name>
-      <text>Visit — Choose one.
-• Create a 1/1 red Balloon creature token with flying.
-• Sacrifice a Balloon. If you do, target creature gains flying until end of turn.</text>
+	<card>
+      <name>Gift of Creation</name>
+      <text>You may reveal a custom Magic card from outside the game and put it into your hand. Exile Gift of Creation.</text>
       <prop>
-        <layout>normal</layout>
-        <type>Artifact — Attraction</type>
-        <maintype>Attraction</maintype>
+        <maintype>Instant</maintype>
+        <cmc>5</cmc>
+        <colors>WUBRG</colors>
+        <manacost>WUBRG</manacost>
         <side>front</side>
-        <cmc>0</cmc>
+        <coloridentity>WUBRG</coloridentity>
+        <layout>normal</layout>
+        <type>Instant</type>
       </prop>
-      <set num="200a" rarity="uncommon" muid="583402" uuid="26bb8928-8178-439b-803e-35f5681b8ff4">HELL</set>
-	  <related>Balloon Token</related>
-      <tablerow>1</tablerow>
+      <set>HELL</set>
+      <tablerow>3</tablerow>
     </card>
-    <card>
-      <name>Accessories to Murder (HELL)</name>
-      <text>Whenever you crank Accessories to Murder, target creature gets +X/+0 until end of turn, where X is the number of creatures you control.</text>
+	<card>
+      <name>Grave Duplication</name>
+      <text>Exile target card from a graveyard. If you do, copy it. Put the copy into your hand.</text>
       <prop>
-        <layout>normal</layout>
-        <type>Artifact — Contraption</type>
-        <maintype>Contraption</maintype>
+        <maintype>Sorcery</maintype>
+        <cmc>2</cmc>
+        <colors>BG</colors>
+        <manacost>BG</manacost>
         <side>front</side>
-        <cmc>0</cmc>
+        <coloridentity>BG</coloridentity>
+        <layout>normal</layout>
+        <type>Sorcery</type>
       </prop>
-      <set num="167" rarity="uncommon" muid="439556" uuid="e8ca02a0-5acf-4d89-847b-bad0d7560682">HELL</set>
-      <tablerow>1</tablerow>
+      <set>HELL</set>
+      <tablerow>3</tablerow>
     </card>
-    <card>
-      <name>Applied Aeronautics (HELL)</name>
-      <text>Whenever you crank Applied Aeronautics, until end of turn, target creature gets +1/+0, gains flying, and becomes an artifact in addition to its other types.</text>
+	<card>
+      <name>Momir's Wish</name>
+      <text>Create a copy of a Magic card with mana value X chosen at random. You may cast it without paying its mana cost. If you don’t, put it into your hand.</text>
       <prop>
-        <layout>normal</layout>
-        <type>Artifact — Contraption</type>
-        <maintype>Contraption</maintype>
-        <side>front</side>
+        <maintype>Instant</maintype>
         <cmc>0</cmc>
+        <colors>UG</colors>
+        <manacost>X</manacost>
+        <side>front</side>
+        <coloridentity>UG</coloridentity>
+        <layout>normal</layout>
+        <type>Instant</type>
       </prop>
-      <set num="168" rarity="common" muid="439557" uuid="8dcd1fe5-1b80-45eb-921d-8d1a90816754">HELL</set>
-      <tablerow>1</tablerow>
+      <set>HELL</set>
+      <tablerow>3</tablerow>
     </card>
-    <card>
-      <name>Arms Depot (HELL)</name>
-      <text>Whenever you crank Arms Depot, put two +1/+1 counters on target creature.</text>
+	<card>
+      <name>Alchemical Printer</name>
+      <text>{T}, Sacrifice this artifact: Create a copy of a digital-only Magic card chosen at random and put it into your hand.</text>
       <prop>
-        <layout>normal</layout>
-        <type>Artifact — Contraption</type>
-        <maintype>Contraption</maintype>
+        <maintype>Artifact</maintype>
+        <cmc>2</cmc>
+        <manacost>2</manacost>
         <side>front</side>
-        <cmc>0</cmc>
+        <layout>normal</layout>
+        <type>Artifact</type>
       </prop>
-      <set num="169" rarity="uncommon" muid="439558" uuid="8277ff56-067f-49dc-8f83-b9fe7b37990f">HELL</set>
-      <tablerow>1</tablerow>
+      <set>HELL</set>
+      <tablerow>3</tablerow>
     </card>
-    <card>
-      <name>Auto-Key (HELL)</name>
-      <text>Whenever you crank Auto-Key, until end of turn, target creature becomes an artifact in addition to its other types and gains &quot;{T}: You gain 3 life.&quot;</text>
+	<card>
+      <name>The Marker of _______</name>
+      <text>This artifact enters tapped.
+{T}, Sacrifice this artifact: Reveal a card in your hand. Perpetually cleave any text or mana symbols on that card.</text>
       <prop>
-        <layout>normal</layout>
-        <type>Artifact — Contraption</type>
-        <maintype>Contraption</maintype>
+        <maintype>Artifact</maintype>
+        <cmc>3</cmc>
+        <manacost>3</manacost>
         <side>front</side>
-        <cmc>0</cmc>
-      </prop>
-      <set num="170" rarity="common" muid="439559" uuid="29dcdef4-7898-4620-a176-fcabd3f1fa4f">HELL</set>
-      <tablerow>1</tablerow>
-    </card>
-    <card>
-      <name>Bee-Bee Gun (HELL)</name>
-      <text>Whenever you crank Bee-Bee Gun, until end of turn, target creature gains &quot;{2}: This creature fights another target creature.&quot;</text>
-      <prop>
         <layout>normal</layout>
-        <side>front</side>
-        <type>Artifact — Contraption</type>
-        <maintype>Contraption</maintype>
-        <cmc>0</cmc>
+        <type>Legendary Artifact</type>
       </prop>
-      <set muid="439560" rarity="mythic" num="171" uuid="c4927de5-69a4-4461-9ebe-b243e9cf00c4">HELL</set>
-      <tablerow>1</tablerow>
-    </card>
-    <card>
-      <name>Boomflinger (HELL)</name>
-      <text>Whenever you crank Boomflinger, roll two six-sided dice. Boomflinger deals damage to target player or planeswalker equal to the difference between those results.</text>
-      <prop>
-        <layout>normal</layout>
-        <side>front</side>
-        <type>Artifact — Contraption</type>
-        <maintype>Contraption</maintype>
-        <cmc>0</cmc>
-      </prop>
-      <set muid="439561" rarity="common" num="172" uuid="a6fb2587-6661-4596-9fcb-15f97aeedd37">HELL</set>
-      <tablerow>1</tablerow>
-    </card>
-    <card>
-      <name>Buzz Buggy (HELL)</name>
-      <text>Whenever you crank Buzz Buggy, target creature gets +2/+0 and gains trample until end of turn.</text>
-      <prop>
-        <layout>normal</layout>
-        <side>front</side>
-        <type>Artifact — Contraption</type>
-        <maintype>Contraption</maintype>
-        <cmc>0</cmc>
-      </prop>
-      <set muid="439562" rarity="common" num="173" uuid="f7bac075-aa1f-4c8a-9d82-8b6c1ff9b97a">HELL</set>
-      <tablerow>1</tablerow>
-    </card>
-    <card>
-      <name>Deadly Poison Sampler (HELL)</name>
-      <text>Whenever you crank Deadly Poison Sampler, until end of turn, target creature gains &quot;Whenever this creature deals combat damage to a player, destroy target creature that player controls.&quot;</text>
-      <prop>
-        <layout>normal</layout>
-        <side>front</side>
-        <type>Artifact — Contraption</type>
-        <maintype>Contraption</maintype>
-        <cmc>0</cmc>
-      </prop>
-      <set muid="439563" rarity="rare" num="174" uuid="c0242175-3e91-4a6e-bcaf-036ff75cef49">HELL</set>
-      <tablerow>1</tablerow>
-    </card>
-    <card>
-      <name>Dictation Quillograph (HELL)</name>
-      <text>Whenever you crank Dictation Quillograph, until end of turn, target creature gains &quot;Whenever this creature deals combat damage to a player, you may draw a card. If you do, discard a card.&quot;</text>
-      <prop>
-        <layout>normal</layout>
-        <side>front</side>
-        <type>Artifact — Contraption</type>
-        <maintype>Contraption</maintype>
-        <cmc>0</cmc>
-      </prop>
-      <set muid="439564" rarity="common" num="175" uuid="782d7294-14e6-4773-af8e-40b39f4f701a">HELL</set>
-      <tablerow>1</tablerow>
-    </card>
-    <card>
-      <name>Dispatch Dispensary (HELL)</name>
-      <text>Whenever you crank Dispatch Dispensary, create a 2/2 black Rogue creature token with menace.</text>
-      <prop>
-        <layout>normal</layout>
-        <side>front</side>
-        <type>Artifact — Contraption</type>
-        <maintype>Contraption</maintype>
-        <cmc>0</cmc>
-      </prop>
-      <set muid="439565" rarity="uncommon" num="176" uuid="eced6323-cfb6-4429-badb-2c249c6c69f4">HELL</set>
-	  <related>Rogue Token </related>
-      <tablerow>1</tablerow>
-    </card>
-    <card>
-      <name>Division Table (HELL)</name>
-      <text>Whenever you crank Division Table, target player loses 2 life.</text>
-      <prop>
-        <layout>normal</layout>
-        <side>front</side>
-        <type>Artifact — Contraption</type>
-        <maintype>Contraption</maintype>
-        <cmc>0</cmc>
-      </prop>
-      <set muid="439566" rarity="common" num="177" uuid="90fcd1f0-0ed3-46f9-a12a-fc0e9f99e97f">HELL</set>
-      <tablerow>1</tablerow>
-    </card>
-    <card>
-      <name>Dogsnail Engine (HELL)</name>
-      <text>Whenever you crank Dogsnail Engine, target player gains life equal to the greatest power among creatures you control.</text>
-      <prop>
-        <layout>normal</layout>
-        <side>front</side>
-        <type>Artifact — Contraption</type>
-        <maintype>Contraption</maintype>
-        <cmc>0</cmc>
-      </prop>
-      <set muid="439567" rarity="uncommon" num="178" uuid="2003732e-efa5-42c7-8656-90fb4c9fc1e5">HELL</set>
-      <tablerow>1</tablerow>
-    </card>
-    <card>
-      <name>Dual Doomsuits (HELL)</name>
-      <text>Whenever you crank Dual Doomsuits, each time a source you control would deal damage this turn, it deals double that damage instead.</text>
-      <prop>
-        <layout>normal</layout>
-        <side>front</side>
-        <type>Artifact — Contraption</type>
-        <maintype>Contraption</maintype>
-        <cmc>0</cmc>
-      </prop>
-      <set muid="439568" rarity="rare" num="179" uuid="d5c91e63-284e-4403-af01-0cfe6af914c1">HELL</set>
-      <tablerow>1</tablerow>
-    </card>
-    <card>
-      <name>Duplication Device (HELL)</name>
-      <text>Whenever you crank Duplication Device, until end of turn, target creature becomes a copy of any creature on the battlefield, except it's an artifact in addition to its other types.</text>
-      <prop>
-        <layout>normal</layout>
-        <side>front</side>
-        <type>Artifact — Contraption</type>
-        <maintype>Contraption</maintype>
-        <cmc>0</cmc>
-      </prop>
-      <set muid="439569" rarity="rare" num="180" uuid="b586c92c-ebd7-473c-ae55-2628a9eac390">HELL</set>
-      <tablerow>1</tablerow>
-    </card>
-    <card>
-      <name>Faerie Aerie (HELL)</name>
-      <text>Whenever you crank Faerie Aerie, create two 1/1 blue Faerie Spy creature tokens with flying, haste, and &quot;Whenever this creature deals combat damage to a player, draw a card.&quot; Exile them at the beginning of the next end step.</text>
-      <prop>
-        <layout>normal</layout>
-        <side>front</side>
-        <type>Artifact — Contraption</type>
-        <maintype>Contraption</maintype>
-        <cmc>0</cmc>
-      </prop>
-      <set muid="439570" rarity="mythic" num="181" uuid="07ea8a49-9644-4de9-8633-a38431a29c0b">HELL</set>
-	  <related>Faerie Spy Token</related>
-      <tablerow>1</tablerow>
-    </card>
-    <card>
-      <name>Genetic Recombinator (HELL)</name>
-      <text>Whenever you crank Genetic Recombinator, up to two target creatures each get +2/+2 until end of turn.</text>
-      <prop>
-        <layout>normal</layout>
-        <side>front</side>
-        <type>Artifact — Contraption</type>
-        <maintype>Contraption</maintype>
-        <cmc>0</cmc>
-      </prop>
-      <set muid="439571" rarity="uncommon" num="182" uuid="0cd63e12-3851-441b-9cd6-566c08940031">HELL</set>
-      <tablerow>1</tablerow>
-    </card>
-    <card>
-      <name>Gift Horse (HELL)</name>
-      <text>Whenever you crank Gift Horse, roll two six-sided dice. Create a number of 1/1 red Goblin creature tokens equal to the difference between those results.</text>
-      <prop>
-        <layout>normal</layout>
-        <side>front</side>
-        <type>Artifact — Contraption</type>
-        <maintype>Contraption</maintype>
-        <cmc>0</cmc>
-      </prop>
-      <set muid="439572" rarity="rare" num="183" uuid="4190dd17-adf3-4174-ab4b-cc49698b7901">HELL</set>
-	  <related count="x">Goblin Token</related>
-      <tablerow>1</tablerow>
-    </card>
-    <card>
-      <name>Gnomeball Machine (HELL)</name>
-      <text>Whenever you crank Gnomeball Machine, create two 1/1 colorless Gnome artifact creature tokens.</text>
-      <prop>
-        <layout>normal</layout>
-        <side>front</side>
-        <type>Artifact — Contraption</type>
-        <maintype>Contraption</maintype>
-        <cmc>0</cmc>
-      </prop>
-      <set muid="439573" rarity="uncommon" num="184" uuid="291989b2-d87f-4e5a-a159-4d564d1c2c6a">HELL</set>
-	  <related count="2">Gnome Token</related>
-      <tablerow>1</tablerow>
-    </card>
-    <card>
-      <name>Goblin Slingshot (HELL)</name>
-      <text>Whenever you crank Goblin Slingshot, creatures you control get +2/+0 and gain trample until end of turn.</text>
-      <prop>
-        <layout>normal</layout>
-        <side>front</side>
-        <maintype>Contraption</maintype>
-        <cmc>0</cmc>
-        <type>Artifact — Contraption</type>
-      </prop>
-      <set muid="439574" uuid="7368a5ae-5642-4e90-9e73-9f0283067c15" rarity="rare" num="185">HELL</set>
-      <tablerow>1</tablerow>
-    </card>
-    <card>
-      <name>Guest List (HELL)</name>
-      <text>Whenever you crank Guest List, target creature gets -X/-X until end of turn, where X is the number of creature cards in its controller's graveyard.</text>
-      <prop>
-        <layout>normal</layout>
-        <side>front</side>
-        <maintype>Contraption</maintype>
-        <cmc>0</cmc>
-        <type>Artifact — Contraption</type>
-      </prop>
-      <set muid="439575" uuid="c9968bad-07fb-4fc5-8ce7-78936c4e6c28" rarity="rare" num="186">HELL</set>
-      <tablerow>1</tablerow>
-    </card>
-    <card>
-      <name>Hard Hat Area (HELL)</name>
-      <text>Whenever you crank Hard Hat Area, roll two six-sided dice. Hard Hat Area assembles a number of Contraptions equal to the difference between those results. (To assemble a Contraption, put the top card of your Contraption deck face up onto one of your sprockets.)</text>
-      <prop>
-        <layout>normal</layout>
-        <side>front</side>
-        <maintype>Contraption</maintype>
-        <cmc>0</cmc>
-        <type>Artifact — Contraption</type>
-      </prop>
-      <set muid="439576" uuid="30dc6c38-18e7-44b1-91d0-dfa1acdb4106" rarity="mythic" num="187">HELL</set>
-      <tablerow>1</tablerow>
-    </card>
-    <card>
-      <name>Head Banger (HELL)</name>
-      <text>Whenever you crank Head Banger, target creature must be blocked this turn if able.</text>
-      <prop>
-        <layout>normal</layout>
-        <type>Artifact — Contraption</type>
-        <maintype>Contraption</maintype>
-        <cmc>0</cmc>
-        <side>front</side>
-      </prop>
-      <set uuid="32c3fc99-227b-402e-9b33-07bbec9a7699" muid="439577" num="188" rarity="common">HELL</set>
-      <tablerow>1</tablerow>
-    </card>
-    <card>
-      <name>Hypnotic Swirly Disc (HELL)</name>
-      <text>Whenever you crank Hypnotic Swirly Disc, target player mills X cards, where X is the number of creatures you control.</text>
-      <prop>
-        <layout>normal</layout>
-        <type>Artifact — Contraption</type>
-        <maintype>Contraption</maintype>
-        <cmc>0</cmc>
-        <side>front</side>
-      </prop>
-      <set uuid="13d193e9-8bcd-452e-a7d8-37b519b6c2b5" muid="439578" num="189" rarity="rare">UST</set>
-      <tablerow>1</tablerow>
+      <set>HELL</set>
+      <tablerow>3</tablerow>
     </card>
   </cards>
 </cockatrice_carddatabase>
